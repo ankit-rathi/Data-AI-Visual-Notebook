@@ -40,6 +40,3 @@ In every case:
 * the cost of being wrong exists
 * waiting forever is not an option
 
-
-
-Just tell me how deep you want to go.
