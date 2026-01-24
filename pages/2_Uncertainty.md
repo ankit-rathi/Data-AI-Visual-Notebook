@@ -1,7 +1,6 @@
 # **2. Uncertainty**
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2aff1bef-f585-4314-9641-603e4c7e3e6e" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a12a4f8e-1d77-4b88-b3fe-792e3397b908" />
 
 ### Explanation (first-principles):
 
