@@ -1,7 +1,6 @@
 # **1. Decision**
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/dabd0921-12c6-4830-8d8f-8ee81b42cff2" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2577ff3-3f26-4b1b-a492-6da18392814f" />
 
 ### Explanation (first-principles, Feynman style):
 
