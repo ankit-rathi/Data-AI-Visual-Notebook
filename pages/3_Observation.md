@@ -1,7 +1,6 @@
 # **3. Observation**
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/12fe98de-3f1e-4fd4-8d4e-dfef65df8509" />
-
+<img width="975" height="553" alt="image" src="https://github.com/user-attachments/assets/9499fd62-335d-4049-a8c8-b4bbf9a7442f" />
 
 ### Explanation (first principles):
 
