@@ -1,0 +1,7 @@
+# **B - From Data to Structure**
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/089b5a07-4361-4dc8-94e8-6350d4bcbd69" />
+
+> To remember reality at scale, we first freeze individual facts as **records**, each capturing one discrete truth. Because a fact has parts, we break records into **fields**, and to avoid ambiguity when many people and systems use the same data, we agree in advance on a **schema** that defines what those fields mean. When similar facts repeat over time, they naturally form a **table**, but repetition alone is not enough—each record must have a stable identity, which is why a **primary key** exists. Since reality itself is interconnected, records must also be linked through **relationships**, allowing the system to reflect the world without duplication or contradiction. All of this is managed by a **database**, whose purpose is not storage but reliability. When reality changes, updates must happen as indivisible units called **transactions**, because partial truth is worse than no truth. **Consistency** ensures that these updates never violate the rules of the system, preserving trust in the stored facts, while **latency** reminds us that truth loses value if it arrives too late. Together, these concepts exist to protect truth under scale, change, and time pressure.
+
+> Record → Field → Schema → Table → Primary Key, Relationship → Database, Transaction, Consistency → Latency
