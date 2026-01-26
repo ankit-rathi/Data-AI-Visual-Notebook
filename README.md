@@ -6,7 +6,7 @@ Think of this as **a map of the entire Data & AI ecosystem**, but explained like
 ---
 
 # 📘 Data & AI: A Visual Notebook
-> How data becomes insight, prediction, and decisions.
+> From Reality to Wisdom — through Data and Decisions.
 
 This book is a first-principles guide to how decisions are actually made in the modern world, tracing a clear path from raw reality to human wisdom. It shows how real-world events become data, how data is structured and moved, how scale introduces failure and trust becomes essential, how governance and incentives shape what we see, how insight and learning emerge, and how AI systems amplify both intelligence and error. Using simple visuals, plain English, and concrete examples, the book strips away jargon to reveal how data and AI really work—so readers don’t just learn tools, but learn how to think clearly, make better decisions, and apply judgment in a world driven by complex systems.
 
