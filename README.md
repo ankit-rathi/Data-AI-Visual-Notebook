@@ -1,4 +1,4 @@
-**Table of Contents**:
+**Visual Notebook Features**:
 
 * ✅ First-principles flow
 * ✅ Full ecosystem coverage
