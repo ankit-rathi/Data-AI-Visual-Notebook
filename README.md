@@ -4,12 +4,12 @@
 * ✅ Full ecosystem coverage
 * ✅ Teacher + student friendly
 * ✅ Professional + advisor relevant
-* ✅ Spread-optimized (≈ 50–55 spreads)
+* ✅ Spread-optimized (≈ 65 spreads)
 * ✅ Includes merged concepts where depth overlaps
 * ✅ Each item = one visual spread + one narrative page
 * ✅ No topic bloat, no missing pillars
 
-Below is the **final optimized TOC (65 spreads)**.
+Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
