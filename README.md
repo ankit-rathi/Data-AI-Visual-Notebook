@@ -149,7 +149,7 @@ Let’s validate against your constraint.
 Raw topics listed: 66
 Merged spreads reduce count by 11
 
-**Final spread count ≈ 55**
+**Final spread count ≈ 65**
 
 Perfect for:
 
