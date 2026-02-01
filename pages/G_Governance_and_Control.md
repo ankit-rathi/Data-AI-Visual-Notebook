@@ -1,7 +1,0 @@
-# **G - Governance and Control**
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1966bf79-4003-4bfb-96a2-e50570226a53" />
-
-> From first principles, these ideas exist to ensure that data is used **responsibly, safely, and with clear accountability**. **Data ownership** defines who is responsible for a dataset and for the decisions made using it. Once ownership is clear, **access control** follows naturally, because not everyone should be able to see or change all data. **Privacy** exists because some data can cause real harm if misused, especially when it relates to people, which is why **PII** is identified and protected with stricter rules. To make these responsibilities enforceable, organizations follow **compliance** requirements that define what is allowed and what is not. Proving compliance requires visibility into how data is created, changed, and used, which is why **lineage** is critical—it allows data to be traced across systems. To make all this information easy to find and manage, organizations maintain a **data catalog**, which documents available data assets and how they should be used. Supporting everything underneath is **metadata**, which captures definitions, ownership, sensitivity, access rules, and lineage, making governance possible at scale and ensuring control, privacy, and compliance across the data ecosystem.
-
-> Data Ownership → Access Control → Privacy, PII → Compliance, Lineage → Metadata, Data Catalog
