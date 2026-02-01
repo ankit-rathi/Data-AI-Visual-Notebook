@@ -1,7 +1,0 @@
-# **K. Modern Data Ecosystem**
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2c1cbf0-e55e-4840-8e4f-60976c209b23" />
-
-> From first principles, these ideas exist because organizations need to turn raw data into **reliable decisions without slowing themselves down**. A **data platform** provides the shared foundation—storage, computing power, pipelines, and governance—that makes data trustworthy and easy to access. On top of this foundation, teams create **data products**, which are clearly defined, owned, and quality-checked datasets built for specific users. This reflects the idea of **data as a product**, where data is treated as something intentionally designed, not just a by-product of systems. When data is delivered in this way, **self-service analytics** becomes possible, allowing people to answer their own questions without waiting on central teams. As organizations move from analysis to prediction and automation, **MLOps** ensures that models built on these data products can be deployed, monitored, and maintained safely. **Data Mesh** connects all of this by giving domain teams ownership of their data products while relying on a shared platform, allowing the organization to scale. Together, these capabilities enable **decision intelligence**, where data, analytics, and models work together to continuously improve decisions and outcomes over time.
-
-> Data Platform → Data as a Product → Data Product → Self-Service Analytics → MLOps → Data Mesh → Decision Intelligence
