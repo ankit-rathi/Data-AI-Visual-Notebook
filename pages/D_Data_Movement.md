@@ -1,7 +1,0 @@
-# **D - Data Movement**
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/050e0142-97ad-43a3-ad89-6ffca3554448" />
-
-> From first principles, data engineering exists to **reliably move facts** from where they are created to where they are needed, over time and even when things fail. Data begins at a **data source**, where systems generate information to run daily operations. It becomes useful only when it reaches a **data sink**, where it can be analyzed or used. The structured path that connects sources to sinks is called a **data pipeline**. Pipelines must handle time correctly: **batch processing** is used when efficiency and complete historical data matter, while **stream processing** is used when freshness and immediacy are critical. As data moves through a pipeline, it often needs to be reshaped. This leads to **ETL** or **ELT**, depending on whether transformations happen before or after loading the data, usually based on where computing power is best used. As pipelines grow larger and more complex, **orchestration** is needed to manage task dependencies and execution order, while **scheduling** decides when and how often these tasks run. Since real systems are never perfect, **failures** will happen. Reliability does not come from avoiding errors, but from planning for them—using **retries** and recovery mechanisms—so data continues to flow and remain trustworthy.
-
-> Data Source, Data Sink → Data Pipeline → Batch vs Stream → ETL vs ELT → Orchestration, Scheduling → Failure & Retry
