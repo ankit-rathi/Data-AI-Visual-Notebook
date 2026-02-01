@@ -1,7 +1,0 @@
-# **E - Scale and Distribution**
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f304d0ce-226e-4115-a8d7-bb1315ed7f86" />
-
-> From first principles, these ideas exist because systems must handle **more data, arriving faster, without breaking**. As **data volume** grows, a single machine can no longer keep up, so data is **partitioned** into smaller pieces that can be processed independently. When these partitions are placed across multiple machines, the system is said to be **sharded**, allowing it to grow horizontally instead of relying on one bigger machine. As data **velocity** increases and **variety** expands, the system must process different kinds of data quickly, which puts pressure on **throughput**—the amount of work the system can complete in a given time. To increase throughput, systems process data in parallel across shards. However, parallel systems are more likely to experience failures, because more components are involved. This is why **replication** is essential: by keeping copies of data on multiple machines, the system can stay available even when parts fail. Replication enables **fault tolerance**, ensuring the system continues to function despite individual failures. Together, partitioning, sharding, replication, and fault tolerance allow systems to maintain throughput as volume, velocity, and variety grow—this ability to grow without failure is what we call **scalability**.
-
-> Volume, Velocity, Variety → Partitioning, Sharding → Throughput → Replication, Fault Tolerance → Scalability
