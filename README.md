@@ -21,7 +21,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🧱 PART 1 — Decisions, Uncertainty & Meaning (Thinking Foundation)
+# 🧱 PART A — Decisions, Uncertainty & Meaning (Thinking Foundation)
 
 1. What Is a Decision
 2. Uncertainty and Outcomes
@@ -37,7 +37,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 📦 PART 2 — Data Fundamentals (How Reality Becomes Structured)
+# 📦 PART B — Data Fundamentals (How Reality Becomes Structured)
 
 12. Types of Data (Structured / Semi / Unstructured)
 13. State vs Event Data
@@ -52,7 +52,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🗄 PART 3 — Databases & Storage Systems
+# 🗄 PART C — Databases & Storage Systems
 
 22. Why Databases Exist
 23. OLTP vs OLAP
@@ -64,7 +64,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🏗 PART 4 — Data Architecture & Distributed Systems
+# 🏗 PART D — Data Architecture & Distributed Systems
 
 29. Data Pipelines — Flow of Data
 30. Batch vs Streaming
@@ -77,7 +77,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# ⚙️ PART 5 — Processing & Analytical Modeling
+# ⚙️ PART E — Processing & Analytical Modeling
 
 37. Aggregation and Transformation
 38. Feature Engineering
@@ -86,7 +86,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🤖 PART 6 — Machine Learning Foundations
+# 🤖 PART F — Machine Learning Foundations
 
 41. What Machine Learning Really Is
 42. Supervised vs Unsupervised Learning
@@ -97,7 +97,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🧠 PART 7 — AI & Language Systems
+# 🧠 PART G — AI & Language Systems
 
 47. Neural Networks — Core Idea
 48. Embeddings — Meaning as Vectors
@@ -107,7 +107,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🚀 PART 8 — Operationalizing Data & AI
+# 🚀 PART H — Operationalizing Data & AI
 
 52. From Model to Production
 53. Automation vs Human-in-Loop
@@ -115,7 +115,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🛡 PART 9 — Governance, Risk & Responsibility
+# 🛡 PART I — Governance, Risk & Responsibility
 
 55. Governance + Lineage
 56. Privacy + Data Minimization
@@ -124,7 +124,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 💰 PART 10 — Strategy, Cost & Decision Frameworks
+# 💰 PART J — Strategy, Cost & Decision Frameworks
 
 59. Cost vs Performance Tradeoffs
 60. Build vs Buy + AI Readiness
@@ -133,7 +133,7 @@ Below is the **final optimized TOC (≈ 65 spreads)**.
 
 ---
 
-# 🧭 PART 11 — System Design Synthesis
+# 🧭 PART K — System Design Synthesis
 
 63. Designing for Scale
 64. Designing for Reliability
