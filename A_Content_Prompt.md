@@ -1,67 +1,117 @@
-Now, here’s the **one prompt** you can use every time to generate *all three formats in one response*.
+# 🔒 LOCKED: Data & AI Visual Notebook — Content Template
+
+This template defines **structure, style, cohesion rules, and output format** for every topic in the book.
+
+You only need to recall it using the prompt at the end.
 
 ---
 
-## **Reusable Master Prompt (Copy–Paste)**
+## 📐 Fixed Output Structure (Order Is Mandatory)
 
-> **Use the locked cross-format cohesion template for my book *Data & AI: A Visual Notebook*.**
-> Topic: **[INSERT CURRENT TOPIC]**
-> Next topic to connect: **[INSERT NEXT TOPIC]**
->
-> Generate all three artifacts in **one response**, fully aligned and cohesive:
->
-> **1) Book Right-Page Article**
->
-> * ~**370 words**
-> * Cassie Kozyrkov–style
-> * First principles, plain English
-> * Decision-focused, no jargon worship
-> * One clear example (real life or business)
-> * Emphasize core distinction
-> * End with a natural bridge to the *next topic*
->
-> **2) Visual Note (Left Page)**
->
-> * Karina Viola Stolz style
-> * Single page
-> * 6–8 sections
-> * One **big icon per section**
-> * Short phrases only (no sentences)
-> * Sketch-friendly, high whitespace
-> * Include a **“Leads to → [Next Topic]”** section
->
-> **3) YouTube Shorts Transcript**
->
-> * ~**60 seconds**
-> * Strong hook in first 3–5 seconds
-> * Spoken, intuitive language
-> * No new concepts beyond the article
-> * End with a memorable takeaway or question
->
-> Follow the locked rules:
->
-> * One core idea, one key distinction
-> * Vocabulary consistent across formats
-> * Article explains, visual helps remember, short helps notice
-> * Calm, non-hype, anti-certainty tone
-> * No contradictions across formats
+Every topic response must appear in **this exact order**:
+
+### 1️⃣ RIGHT PAGE — Article
+
+* **Length:** ~370 words (book-ready, one right-hand page)
+* **Style:** Cassie Kozyrkov
+* **Tone:** Calm, clear, first-principles, decision-focused
+* **Purpose:**
+
+  * Explain *why* the concept exists
+  * Build intuition from reality → abstraction
+  * Use real-life and business examples
+* **Rules:**
+
+  * Plain English, no jargon unless explained
+  * No equations, no tools-first framing
+  * Ends with **one clear bridge line to the next topic**
+
+➡️ This is the **thinking layer**
 
 ---
 
-## **How you’ll use this going forward**
+### 2️⃣ LEFT PAGE — Visual Note
 
-Every time, you just say something like:
+* **Style:** Karina Viola Stolz
+* **Format:** Single page, hand-drawable
+* **Design principles:**
 
-> *“Use the locked template. Topic: Signal vs Noise. Next topic: Decision under Uncertainty.”*
+  * High whitespace
+  * Sketch-friendly
+  * Memory-first, not explanation-first
 
-And I’ll return:
+#### For EACH section in the visual note:
 
-* ✅ Book-ready article
-* ✅ Draw-it-yourself visual note
-* ✅ Publish-ready Shorts transcript
+* **One big, clear icon** representing the section (simple metaphor)
+* **Multiple bullet points**, and for EACH bullet:
 
-—all aligned, all coherent, all decision-first.
+  * **Core bullet text** (short, essential, memory hook)
+  * **Optional cue / extension** *(example, intuition, analogy)*
 
-You’ve now turned your *taste* into a **content engine**.
-From here on, the book scales cleanly.
+    * Clearly skippable
+    * Space-dependent
+    * Always provided, never mandatory
 
+#### Visual note rules:
+
+* Default view must remain **clean and uncluttered**
+* Optional cues exist only to deepen understanding if space allows
+* Final section must explicitly show:
+  **“Leads to → Next Topic”**
+
+➡️ This is the **memory layer**
+
+---
+
+### 3️⃣ YOUTUBE SHORTS — 60-Second Transcript
+
+* **Style:** Spoken, simple, intuitive
+* **Language:** Conversational, non-technical
+* **Rules:**
+
+  * Same ideas as the article — **no new concepts**
+  * Same framing as visual note — **same mental model**
+  * Strong hook in first 3–5 seconds
+  * One clear takeaway or reflective question at the end
+
+➡️ This is the **attention layer**
+
+---
+
+## 🔁 Cross-Format Cohesion Rules (Strict)
+
+All three formats must:
+
+* Convey the **same core truth**
+* Use **consistent language and metaphors**
+* Reinforce each other, not repeat verbatim
+* Follow a one-way compression flow:
+
+**Article → Visual Note → YouTube Short**
+
+🚫 Shorts or visuals must NEVER introduce ideas not present in the article.
+
+---
+
+## 🧠 Teaching Philosophy (Implicit but Enforced)
+
+* First principles before terminology
+* Reality → abstraction → decision impact
+* Explanation over description
+* Judgment over automation
+* Wisdom over optimization
+
+---
+
+## 🔑 Official Recall Prompt (Locked)
+
+To generate content using this template, you will say:
+
+> **“Use the locked Data and AI content template. Topic: X. Next topic: Y.”**
+
+And I will:
+
+* Apply this template fully
+* Keep all three formats in sync
+* Deliver everything in one response
+* Maintain book-level consistency across topics and chapters
