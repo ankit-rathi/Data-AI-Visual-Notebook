@@ -1,61 +1,83 @@
-# 🔒 LOCKED: Data & AI Visual Notebook — Content Template
+# 📘 Data & AI: A Visual Notebook
 
-This template defines **structure, style, cohesion rules, and output format** for every topic in the book.
+## **Final Content Template (Review Version)**
 
-You only need to recall it using the prompt at the end.
+This template defines **how every topic in the book is explained, visualized, and spoken**, ensuring clarity, coherence, and learning depth.
 
 ---
 
-## 📐 Fixed Output Structure (Order Is Mandatory)
+## 🧱 Fixed Output Structure (Order Is Mandatory)
 
-Every topic response must appear in **this exact order**:
+Every topic response must follow this **exact sequence**:
 
-### 1️⃣ RIGHT PAGE — Article
+---
 
-* **Length:** ~370 words (book-ready, one right-hand page)
-* **Style:** Cassie Kozyrkov
-* **Tone:** Calm, clear, first-principles, decision-focused
-* **Purpose:**
+## 1️⃣ RIGHT PAGE — Article
 
-  * Explain *why* the concept exists
-  * Build intuition from reality → abstraction
-  * Use real-life and business examples
-* **Rules:**
+**Length:** ~370 words (comfortably fits one right-hand book page)
+**Style:** Cassie Kozyrkov
+**Tone:** Calm, clear, first-principles, decision-focused
 
-  * Plain English, no jargon unless explained
-  * No equations, no tools-first framing
-  * Ends with **one clear bridge line to the next topic**
+### Purpose
+
+* Explain *why* the concept exists
+* Start from reality, not terminology
+* Build intuition before abstraction
+* Use real-life and business examples
+* Emphasize judgment over certainty
+
+### Rules
+
+* Plain English, no jargon unless explained
+* No equations, no tool-first framing
+* No hype, no motivational language
+* End with **one clear bridging sentence** connecting to the next topic
 
 ➡️ This is the **thinking layer**
 
 ---
 
-### 2️⃣ LEFT PAGE — Visual Note
+## 2️⃣ LEFT PAGE — Visual Note
 
-* **Style:** Karina Viola Stolz
-* **Format:** Single page, hand-drawable
-* **Design principles:**
+**Style:** Karina Viola Stolz
+**Format:** Single-page, hand-drawable visual note
 
-  * High whitespace
-  * Sketch-friendly
-  * Memory-first, not explanation-first
+### Design Principles
 
-#### For EACH section in the visual note:
+* High whitespace
+* Sketch-friendly
+* Memory-first, not explanation-first
+* Clean by default, expandable if space allows
 
-* **One big, clear icon** representing the section (simple metaphor)
-* **Multiple bullet points**, and for EACH bullet:
+### Section Rules
 
-  * **Core bullet text** (short, essential, memory hook)
-  * **Optional cue / extension** *(example, intuition, analogy)*
+For **each section** in the visual note:
 
-    * Clearly skippable
-    * Space-dependent
-    * Always provided, never mandatory
+* Exactly **one large, clear icon**
 
-#### Visual note rules:
+  * Simple metaphor
+  * Easy to hand-draw
+  * Represents the core idea of the section
 
-* Default view must remain **clean and uncluttered**
-* Optional cues exist only to deepen understanding if space allows
+### Bullet Rules
+
+For **each bullet point**:
+
+* **Core bullet text**
+
+  * Very short
+  * Acts as a memory hook
+* **Optional cue / extension**
+
+  * Example, intuition, or analogy
+  * Clearly skippable
+  * Space-dependent
+  * Always provided, never mandatory
+
+### Additional Rules
+
+* No full sentences required
+* Visual note should still work using only core bullets + icons
 * Final section must explicitly show:
   **“Leads to → Next Topic”**
 
@@ -63,16 +85,28 @@ Every topic response must appear in **this exact order**:
 
 ---
 
-### 3️⃣ YOUTUBE SHORTS — 60-Second Transcript
+## 3️⃣ YOUTUBE SHORTS — 60-Second Transcript
 
-* **Style:** Spoken, simple, intuitive
-* **Language:** Conversational, non-technical
-* **Rules:**
+**Style:** Spoken, intuitive, thoughtful
 
-  * Same ideas as the article — **no new concepts**
-  * Same framing as visual note — **same mental model**
-  * Strong hook in first 3–5 seconds
-  * One clear takeaway or reflective question at the end
+### Voice & Delivery
+
+* Medium-length sentences
+* Calm, reflective, conversational
+* Sounds like someone explaining thoughtfully, not performing
+* Avoids:
+
+  * Slogans
+  * One-liners
+  * Hype language
+
+### Content Rules
+
+* Same ideas as the article — **no new concepts**
+* Same framing and metaphors as the visual note
+* Clear opening that frames the question
+* One clear takeaway or reflective closing thought
+* ~60 seconds when spoken naturally
 
 ➡️ This is the **attention layer**
 
@@ -84,12 +118,12 @@ All three formats must:
 
 * Convey the **same core truth**
 * Use **consistent language and metaphors**
-* Reinforce each other, not repeat verbatim
+* Reinforce each other without repetition
 * Follow a one-way compression flow:
 
-**Article → Visual Note → YouTube Short**
+**Article → Visual Note → YouTube Shorts**
 
-🚫 Shorts or visuals must NEVER introduce ideas not present in the article.
+🚫 Visual notes and Shorts must never introduce ideas not present in the article.
 
 ---
 
@@ -103,15 +137,14 @@ All three formats must:
 
 ---
 
-## 🔑 Official Recall Prompt (Locked)
+## 🔑 Official Recall Prompt
 
-To generate content using this template, you will say:
+To generate content using this template, the user will say:
 
 > **“Use the locked Data and AI content template. Topic: X. Next topic: Y.”**
 
-And I will:
+This triggers:
 
-* Apply this template fully
-* Keep all three formats in sync
-* Deliver everything in one response
-* Maintain book-level consistency across topics and chapters
+* Article + Visual Note + Shorts in one response
+* Full adherence to this template
+* Book-level consistency across chapters
