@@ -1,137 +1,112 @@
-Locked template applied. Here’s the full, cohesive spread.
+Below is the **full response using your locked Data & AI content template**, with all the constraints you set — tone, flow, simplicity, cross-format sync, optional cues, and the hand-drawable visual note structure.
 
 ---
 
-## RIGHT PAGE — Article (~370 words)
+## RIGHT PAGE — ARTICLE
 
 ### Uncertainty and Outcomes
 
-Uncertainty is not a flaw in decision-making.
-It is the **natural condition of the future**.
+*(~370 words, Cassie Kozyrkov–style: clear, grounded, first-principles)*
 
-If you knew exactly what would happen, there would be no decisions—only execution. Outcomes would be fixed, predictable, and boring. But real life doesn’t work that way. Every meaningful choice opens the door to multiple possible futures.
+Every decision lives in the space between what we know and what we hope will happen. That space is called **uncertainty**. If outcomes were guaranteed, decisions would be trivial—we would simply follow instructions. But real life doesn’t work that way. Markets change, people behave unpredictably, systems interact in messy ways, and time introduces surprises. Decisions exist precisely because outcomes are uncertain.
 
-From first principles, **uncertainty exists because reality is complex**. Many forces interact at the same time. Some are hidden. Some change while you’re watching. Some are pure chance. No amount of intelligence or data can eliminate this completely.
+An **outcome** is what happens after a decision is made. Importantly, outcomes are not the same as decisions. A good decision can lead to a bad outcome, and a bad decision can sometimes get lucky. This distinction matters because judging decisions only by their outcomes trains us to learn the wrong lessons. If we confuse luck with skill, we repeat mistakes and overcredit success.
 
-An outcome is simply **what actually happens after a decision is made**. But here’s the critical idea: outcomes are not fully controlled by decisions. They are shaped by a mix of intent, context, randomness, and timing.
+Uncertainty comes in many forms. Sometimes we don’t have enough information. Sometimes the information exists but is noisy or unreliable. Sometimes the world itself is unstable, changing faster than we can measure it. In business, this shows up as volatile demand, competitor reactions, regulatory shifts, or human behavior that refuses to be neatly modeled. In daily life, it shows up when we choose careers, investments, or even when to speak or stay silent.
 
-This is why judging decisions purely by outcomes is misleading. Two people can make the same decision using the same reasoning and get very different results. One succeeds, the other fails—not because one was smarter, but because uncertainty played out differently.
+Because uncertainty cannot be eliminated, the goal of decision-making is not certainty—it is **better odds**. Good decisions increase the probability of desirable outcomes while accepting that failure is still possible. This is why probabilistic thinking matters. Instead of asking, “Will this work?” we ask, “How likely is this to work, compared to alternatives?” and “What happens if it doesn’t?”
 
-Think about investing. You can analyze a company carefully, understand its risks, and still lose money due to market crashes, regulation changes, or unexpected events. The loss does not automatically mean the decision was bad. It means uncertainty resolved in an unfavorable way.
+Over time, repeated decisions under uncertainty create patterns. When we systematically observe outcomes, compare them with expectations, and update our beliefs, we learn. This learning loop is how individuals improve judgment and how organizations evolve strategy. But learning only works if we are honest about uncertainty upfront and disciplined in how we interpret results.
 
-Good thinkers separate **decision quality** from **outcome quality**. Decision quality lives in the present—what you knew, what you considered, and how you chose. Outcome quality lives in the future—and includes factors you never controlled.
-
-This separation is essential for learning. If you only learn from outcomes, you confuse luck with skill. You repeat bad decisions that happened to work and abandon good ones that didn’t.
-
-Once you accept uncertainty as unavoidable, your goal shifts. You stop trying to predict perfectly. Instead, you try to **improve your odds**, manage downside risk, and stay adaptable when outcomes surprise you.
-
-But to do any of that, you must first decide what information even enters your thinking. Before data, before models, before metrics—there is a quieter step.
-
-Everything begins with **what you notice**.
-That brings us to **Observation — what we choose to pay attention to**.
+To improve outcomes, we must first respect uncertainty rather than pretend it doesn’t exist. And to respect uncertainty, we need something even more basic: the ability to notice what is actually happening in the world. That brings us to the next step—**observation**, or what we choose to pay attention to.
 
 ---
 
-## LEFT PAGE — Visual Note (Karina Viola Stolz style)
+## LEFT PAGE — VISUAL NOTE
 
-**Title (top):**
-🌫️ **Uncertainty & Outcomes**
+### Uncertainty and Outcomes
+
+*(Karina Viola Stolz style — simple, visual, hand-drawable)*
+
+**1. Decisions Live in Uncertainty**
+🌀 *Icon: Question mark inside a cloud*
+
+* Decisions exist because outcomes are not guaranteed
+  *(Cue: If the future were fixed, no decision was needed)*
+* Uncertainty is not a flaw, it’s the starting point
+  *(Cue: Real life ≠ math problems with answers)*
+
+**2. Outcome ≠ Decision**
+🎯 *Icon: Arrow hitting different targets*
+
+* A good decision can still fail
+  *(Cue: Bad luck happens)*
+* A bad decision can sometimes succeed
+  *(Cue: Luck can hide mistakes)*
+
+**3. Sources of Uncertainty**
+📦 *Icon: Open box with unknown contents*
+
+* Missing information
+  *(Cue: We don’t know enough yet)*
+* Noisy or unreliable data
+  *(Cue: Signals mixed with noise)*
+* Changing systems and people
+  *(Cue: Markets, humans, time)*
+
+**4. Better Odds, Not Guarantees**
+📊 *Icon: Probability bars*
+
+* The goal is higher probability, not certainty
+  *(Cue: Stack the odds in your favor)*
+* Compare choices, not outcomes alone
+  *(Cue: “Compared to what?”)*
+
+**5. Learning from Outcomes**
+🔁 *Icon: Feedback loop arrows*
+
+* Compare expectation vs result
+  *(Cue: What did we think would happen?)*
+* Update beliefs over time
+  *(Cue: Learning beats being right once)*
+
+**6. Bridge to Next Topic**
+👀 *Icon: Eye looking outward*
+
+* To learn from uncertainty, we must notice reality
+  *(Cue: You can’t learn from what you don’t observe)*
+
+➡ **Next: Observation — What We Notice**
 
 ---
 
-**Section 1 — Uncertainty**
-☁️ *Fog icon*
+## YOUTUBE SHORTS — 60-SECOND TRANSCRIPT
 
-* Future not fixed
-* Many forces
-* Incomplete knowledge
+*(Spoken, medium-length sentences, thoughtful and conversational)*
 
----
+Every decision exists because the future is uncertain.
+If outcomes were guaranteed, we wouldn’t need to decide at all—we’d just follow instructions.
 
-**Section 2 — Outcomes**
-🎯 *Target icon*
+Uncertainty means we don’t fully know what will happen.
+Not because we’re careless, but because the world is complex, people are unpredictable, and systems change over time.
 
-* What actually happens
-* After the decision
-* Partly out of control
+An outcome is what happens after a decision.
+But here’s the important part: outcomes are not the same as decisions.
 
----
+A good decision can still lead to a bad outcome, just because of bad luck.
+And a bad decision can sometimes work out, simply because things went our way.
 
-**Section 3 — Key mistake**
-❌ *Broken link*
+If we judge decisions only by outcomes, we learn the wrong lessons.
+We confuse luck with skill, and mistakes start repeating.
 
-* Outcome ≠ decision
-* Luck affects results
+So the goal of decision-making is not certainty.
+The goal is better odds.
 
----
+We compare options, think in probabilities, and choose what increases the chance of a good result—knowing failure is still possible.
 
-**Section 4 — Good thinking**
-🧠 *Checklist icon*
+Over time, by looking at outcomes honestly and updating our beliefs, we learn.
+But learning only works if we first pay attention to what’s actually happening.
 
-* Judge the process
-* Use info available
-* Accept uncertainty
+And that brings us to the next idea: observation—what we choose to notice in the world around us.
 
 ---
-
-**Section 5 — Learning loop**
-🔁 *Loop arrow*
-
-* Learn from reasoning
-* Not just results
-
----
-
-**Bottom connector:**
-➡️ **Leads to → Observation (What We Notice)**
-
----
-
-## YOUTUBE SHORTS — 60-Second Transcript
-
-**Hook:**
-If you could know the future,
-you wouldn’t need decisions.
-
-**Core idea:**
-Uncertainty is what makes decisions real.
-
-The future is not fixed.
-Many things interact.
-Some are hidden.
-Some are random.
-
-That’s uncertainty.
-
-**Outcomes explained:**
-An outcome is what actually happens after you decide.
-But here’s the key—
-you don’t fully control outcomes.
-
-You control the choice.
-Reality controls the rest.
-
-**Common mistake:**
-People judge decisions by results.
-
-Good result? “Smart decision.”
-Bad result? “Bad decision.”
-
-That’s wrong.
-
-Luck plays a role.
-
-**Better rule:**
-Judge decisions by the process, not the outcome.
-
-Did you think clearly?
-Did you use what you knew?
-Did you accept uncertainty?
-
-**Close:**
-Once you accept uncertainty,
-the next question becomes obvious.
-
-What information even enters your mind?
-
-That starts with **observation — what you notice**.
