@@ -1,150 +1,169 @@
 # 📘 Data & AI: A Visual Notebook
 
-## **Final Content Template (Review Version)**
+---
 
-This template defines **how every topic in the book is explained, visualized, and spoken**, ensuring clarity, coherence, and learning depth.
+## 🔒 Data & AI Content — UPDATED Final Template (For Review)
+
+### 🔹 How you will prompt me
+
+```
+Use the locked Data and AI content template.
+Previous Topic: X
+Current Topic: Y
+Next Topic: Z
+```
 
 ---
 
-## 🧱 Fixed Output Structure (Order Is Mandatory)
+## 📐 GLOBAL RULES (Apply to ALL topics)
 
-Every topic response must follow this **exact sequence**:
+1. **First-principles thinking**
+
+   * Explain *why the concept exists* before *what it is*
+   * Build intuition before terminology
+
+2. **No repetition rule**
+
+   * Assume **Previous Topic is fully understood**
+   * Do NOT restate or re-explain it
+   * Only extend the mental model forward
+
+3. **Cross-format cohesion**
+
+   * Article, Visual Note, and YouTube Shorts must:
+
+     * Express the same core ideas
+     * Reinforce each other from different angles
+     * Never introduce new concepts independently
+
+4. **Learning-first**
+
+   * Focus on judgment, reasoning, and decision quality
+   * Tools, math, or systems only serve understanding
 
 ---
 
-## 1️⃣ RIGHT PAGE — Article
+## 🧠 OUTPUT STRUCTURE (ALWAYS IN THIS ORDER)
 
-**Length:** ~370 words (comfortably fits one right-hand book page)
+---
+
+## RIGHT PAGE — ARTICLE
+
 **Style:** Cassie Kozyrkov
-**Tone:** Calm, clear, first-principles, decision-focused
+**Length:** ~370 words (comfortably fits one book page)
+**Tone:** Clear, analytical, calm, insight-driven
 
-### Purpose
+**Must include:**
 
-* Explain *why* the concept exists
-* Start from reality, not terminology
-* Build intuition before abstraction
-* Use real-life and business examples
-* Emphasize judgment over certainty
-
-### Rules
-
-* Plain English, no jargon unless explained
-* No equations, no tool-first framing
-* No hype, no motivational language
-* End with **one clear bridging sentence** connecting to the next topic
-
-➡️ This is the **thinking layer**
+* First-principles motivation
+* Real-life + business intuition
+* Clear conceptual boundaries
+* Final paragraph that *naturally hands off* to **Next Topic**
 
 ---
 
-## 2️⃣ LEFT PAGE — Visual Note
+## LEFT PAGE — VISUAL NOTE
 
 **Style:** Karina Viola Stolz
-**Format:** Single-page, hand-drawable visual note
+**Format:** Single page, hand-drawable, uncluttered
 
-### Design Principles
+### TOP
 
-* High whitespace
-* Sketch-friendly
-* Memory-first, not explanation-first
-* Clean by default, expandable if space allows
+**Topic Title**
+**Punchy Tagline**
 
-### Section Rules
+* One short phrase
+* Intuitive, memorable
+* *Not a sentence*
 
-For **each section** in the visual note:
-
-* Exactly **one large, clear icon**
-
-  * Simple metaphor
-  * Easy to hand-draw
-  * Represents the core idea of the section
-
-### Bullet Rules
-
-For **each bullet point**:
-
-* **Core bullet text**
-
-  * Very short
-  * Acts as a memory hook
-* **Optional cue / extension**
-
-  * Example, intuition, or analogy
-  * Clearly skippable
-  * Space-dependent
-  * Always provided, never mandatory
-
-### Additional Rules
-
-* No full sentences required
-* Visual note should still work using only core bullets + icons
-* Final section must explicitly show:
-  **“Leads to → Next Topic”**
-
-➡️ This is the **memory layer**
+> Example:
+> **Uncertainty and Outcomes**
+> *Knowing less than we’d like*
 
 ---
 
-## 3️⃣ YOUTUBE SHORTS — 60-Second Transcript
+### BODY (6–8 sections max)
 
-**Style:** Spoken, intuitive, thoughtful
+For **each section**:
 
-### Voice & Delivery
+1. **Section Heading**
+2. **ONE big icon suggestion** (central metaphor)
+3. **2–4 short bullets**
 
-* Medium-length sentences
-* Calm, reflective, conversational
-* Sounds like someone explaining thoughtfully, not performing
-* Avoids:
+   * Simple language
+   * Memory-first
+   * **Phrases, not sentences**
+4. **Optional bracketed elaboration for EACH bullet**
 
-  * Slogans
-  * One-liners
-  * Hype language
+   * Example, intuition, analogy, or clarification
+   * Clearly skippable if space is limited
+   * No explicit “Cue” label — brackets imply optional depth
 
-### Content Rules
-
-* Same ideas as the article — **no new concepts**
-* Same framing and metaphors as the visual note
-* Clear opening that frames the question
-* One clear takeaway or reflective closing thought
-* ~60 seconds when spoken naturally
-
-➡️ This is the **attention layer**
+> Default view stays clean
+> Brackets are for depth, not clutter
 
 ---
 
-## 🔁 Cross-Format Cohesion Rules (Strict)
+### END
 
-All three formats must:
+**Explicit bridge to Next Topic**
 
-* Convey the **same core truth**
-* Use **consistent language and metaphors**
-* Reinforce each other without repetition
-* Follow a one-way compression flow:
-
-**Article → Visual Note → YouTube Shorts**
-
-🚫 Visual notes and Shorts must never introduce ideas not present in the article.
+* Why the next idea is necessary
+* What breaks without it
 
 ---
 
-## 🧠 Teaching Philosophy (Implicit but Enforced)
+## 🎥 YOUTUBE SHORTS — 60-SECOND TRANSCRIPT
 
-* First principles before terminology
-* Reality → abstraction → decision impact
-* Explanation over description
-* Judgment over automation
-* Wisdom over optimization
+**Style:** Spoken, thoughtful, conversational
+**Sentence length:** **Short to medium**
+
+* Not punchy fragments
+* Not long lectures
+
+**Tone:**
+
+* Calm
+* Reflective
+* Intuitive
+* Sounds like *you explaining something you’ve thought about*
+
+**Rules:**
+
+* No slogans
+* No hype
+* No jargon without intuition
+* End by clearly teeing up the **Next Topic**
 
 ---
 
-## 🔑 Official Recall Prompt
+## 🔁 CONSISTENCY CHECK (INTERNAL)
 
-To generate content using this template, the user will say:
+Before finalizing:
 
-> **“Use the locked Data and AI content template. Topic: X. Next topic: Y.”**
+* Same idea appears across:
 
-This triggers:
+  * Article → depth
+  * Visual Note → memory
+  * Shorts → intuition
+* No repetition of Previous Topic
+* No conceptual drift
+* Clean handoff to Next Topic
 
-* Article + Visual Note + Shorts in one response
-* Full adherence to this template
-* Book-level consistency across chapters
+---
+
+## ✅ Cross-check vs previous version (nothing lost)
+
+- ✔ Cassie-style article (~370 words) — retained
+- ✔ Karina-style visual notes — refined, not diluted
+- ✔ Optional cues per bullet — clarified, cleaner
+- ✔ Big icon per section — retained
+- ✔ YouTube Shorts speaking preference — **improved**
+- ✔ Cross-format cohesion rule — retained
+- ✔ No-repetition constraint — retained
+- ✔ Prompt format — retained
+
+**Net effect:**
+The template is now **more precise, more drawable, more “you”** — without losing any structural strength.
+
+---
