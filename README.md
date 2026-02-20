@@ -17,7 +17,7 @@
 
 ---
 
-# 🧱 PART I — Decisions, Uncertainty & Value (The Core)
+# 🧱 PART A — Decisions, Uncertainty & Value (The Core)
 
 1. What Is a Decision (and Why Most Systems Ignore It)
 2. Uncertainty, Risk & Expected Value
@@ -34,121 +34,121 @@ You’re anchoring everything in decision theory — your differentiator.
 
 ---
 
-# 📦 PART II — From Reality to Data (Modeling the World)
+# 📦 PART B — From Reality to Data (Modeling the World)
 
-10. Events, States & Time
-11. Entities, Attributes & Relationships
-12. Structured vs Unstructured Reality
-13. Identifiers, Keys & Meaning
-14. Data Models (Relational / Document / Graph)
-15. Schema & Constraints as Business Rules
-16. Data Quality — Failure Modes in Practice
-17. Bias, Missingness & Measurement Error
-18. Systems of Record vs Systems of Insight
+1. Events, States & Time
+2. Entities, Attributes & Relationships
+3. Structured vs Unstructured Reality
+4. Identifiers, Keys & Meaning
+5. Data Models (Relational / Document / Graph)
+6. Schema & Constraints as Business Rules
+7. Data Quality — Failure Modes in Practice
+8. Bias, Missingness & Measurement Error
+9. Systems of Record vs Systems of Insight
 
 Add:
-19. When Data Does Not Represent Reality
+10. When Data Does Not Represent Reality
 
 This adds intellectual sharpness.
 
 ---
 
-# 🗄 PART III — Storage & System Tradeoffs
+# 🗄 PART C — Storage & System Tradeoffs
 
-20. Why Databases Exist
-21. OLTP vs OLAP — Competing Optimizations
-22. Data Warehouses vs Lakes — Cost vs Flexibility
-23. SQL vs NoSQL — Tradeoffs
-24. Indexing & Query Optimization
-25. Transactions, Consistency & Trust
-26. CAP Theorem — Distributed Tradeoffs
+1. Why Databases Exist
+2. OLTP vs OLAP — Competing Optimizations
+3. Data Warehouses vs Lakes — Cost vs Flexibility
+4. SQL vs NoSQL — Tradeoffs
+5. Indexing & Query Optimization
+6. Transactions, Consistency & Trust
+7. CAP Theorem — Distributed Tradeoffs
 
 Add:
-27. Architectural Decisions as Risk Allocation
+8. Architectural Decisions as Risk Allocation
 
 Now it’s thought-leadership, not just infrastructure.
 
 ---
 
-# 🏗 PART IV — Data Architecture in the Real World
+# 🏗 PART D — Data Architecture in the Real World
 
-28. Data Pipelines — Flow & Transformation
-29. Batch vs Streaming — Latency vs Stability
-30. ETL vs ELT — Where Logic Lives
-31. Integration Patterns & Complexity Growth
-32. Distributed Systems — Failure Patterns
-33. Observability & Monitoring
+1. Data Pipelines — Flow & Transformation
+2. Batch vs Streaming — Latency vs Stability
+3. ETL vs ELT — Where Logic Lives
+4. Integration Patterns & Complexity Growth
+5. Distributed Systems — Failure Patterns
+6. Observability & Monitoring
 
 Add:
-34. Why Data Platforms Fail in Organizations
-35. Adoption vs Architecture — The Hidden Bottleneck
+7. Why Data Platforms Fail in Organizations
+8. Adoption vs Architecture — The Hidden Bottleneck
 
 This is critical for brand differentiation.
 
 ---
 
-# ⚙️ PART V — Analytical Modeling & Measurement
+# ⚙️ PART E — Analytical Modeling & Measurement
 
-36. Aggregation & Transformation
-37. Dimensional Modeling — Facts & Dimensions
-38. Feature Engineering — Encoding Reality
-39. Evaluation Metrics — What Are We Optimizing?
-40. Real-Time vs Offline Tradeoffs
+1. Aggregation & Transformation
+2. Dimensional Modeling — Facts & Dimensions
+3. Feature Engineering — Encoding Reality
+4. Evaluation Metrics — What Are We Optimizing?
+5. Real-Time vs Offline Tradeoffs
 
 Add:
-41. When Models Improve Metrics but Not Decisions
+6. When Models Improve Metrics but Not Decisions
 
 That’s your edge.
 
 ---
 
-# 🤖 PART VI — Machine Learning & AI Foundations
+# 🤖 PART F — Machine Learning & AI Foundations
 
-42. What ML Really Is (Optimization Under Uncertainty)
-43. Supervised vs Unsupervised
-44. Training vs Inference
-45. Overfitting & Generalization
-46. Model Evaluation & Validation
-47. Drift, Monitoring & Model Decay
-48. Neural Networks — Core Idea
-49. Embeddings & Representation Learning
-50. Large Language Models — What They Actually Do
-51. Retrieval-Augmented Generation (RAG)
+1. What ML Really Is (Optimization Under Uncertainty)
+2. Supervised vs Unsupervised
+3. Training vs Inference
+4. Overfitting & Generalization
+5. Model Evaluation & Validation
+6. Drift, Monitoring & Model Decay
+7. Neural Networks — Core Idea
+8. Embeddings & Representation Learning
+9. Large Language Models — What They Actually Do
+10. Retrieval-Augmented Generation (RAG)
 
 Add:
-52. When NOT to Use Machine Learning
+11. When NOT to Use Machine Learning
 
 Strategic layer.
 
 ---
 
-# 🚀 PART VII — Operationalizing AI Systems
+# 🚀 PART G — Operationalizing AI Systems
 
-53. From Model to Production
-54. Automation vs Human-in-the-Loop
-55. Reliability, Resilience & Recovery
-56. Cost vs Performance Tradeoffs
-57. Governance & Lineage
-58. Privacy, Bias & Responsible AI
-59. Security & Access Control
+1. From Model to Production
+2. Automation vs Human-in-the-Loop
+3. Reliability, Resilience & Recovery
+4. Cost vs Performance Tradeoffs
+5. Governance & Lineage
+6. Privacy, Bias & Responsible AI
+7. Security & Access Control
 
 Add:
-60. AI in Regulated Environments (Bank Context)
+8. AI in Regulated Environments (Bank Context)
 
 That’s highly differentiated.
 
 ---
 
-# 💰 PART VIII — Strategy, ROI & Decision Systems
+# 💰 PART H — Strategy, ROI & Decision Systems
 
-61. Measuring ROI of Data & AI
-62. Build vs Buy — Strategic Tradeoffs
-63. Incentive Alignment in Data Organizations
-64. Decision Velocity vs Decision Quality
-65. Scaling Data Products
-66. Designing for Change & Evolution
-67. End-to-End Data & AI System Map
-68. Designing Systems That Make Better Decisions Inevitable
+1. Measuring ROI of Data & AI
+2. Build vs Buy — Strategic Tradeoffs
+3. Incentive Alignment in Data Organizations
+4. Decision Velocity vs Decision Quality
+5. Scaling Data Products
+6. Designing for Change & Evolution
+7. End-to-End Data & AI System Map
+8. Designing Systems That Make Better Decisions Inevitable
 
 This is where your voice becomes strong.
 
