@@ -1,9 +1,15 @@
-Absolutely.
-Below is the **official, active, authoritative version** of:
+Below is the **latest locked and authoritative version** of:
 
-# **Data & AI Visual Notebook – Master Framework (Locked v3, Feb 2026)**
+# **Data & AI Visual Notebook – Master Framework v3 (Feb 2026)**
 
-This is the permanent structural standard now in force.
+*Status: Final. Active. Governing.*
+
+This version includes:
+
+* Icon alignment rule (Visual Notes)
+* Medium-length sentence rule (YouTube Shorts)
+* All prior structural constraints
+* All prior versions superseded
 
 ---
 
@@ -12,104 +18,158 @@ This is the permanent structural standard now in force.
 **Theme:** Judgment Under Uncertainty
 
 This notebook is not about tools.
-It is about thinking clearly when reality is messy.
+It is about disciplined thinking when reality is imperfect.
 
-Data is imperfect.
+Data is incomplete.
 Measurement is flawed.
 Models are abstractions.
 
-The goal is disciplined judgment — not mechanical output.
+The objective is structured judgment — not output generation.
 
 ---
 
 # TEACHING PHILOSOPHY
 
 1. **Cognition Before Computation**
-   Thinking precedes tooling.
+   Thinking precedes tools.
 
 2. **Why Before How**
-   Concepts before techniques.
+   Concept before method.
 
-3. **Single Idea Per Unit**
+3. **Single Idea Per Topic**
    No abstraction stacking.
 
 4. **Memory-First Design**
    Structure must aid recall.
 
 5. **Calm Authority Tone**
-   No hype. No drama. No intellectual noise.
+   No hype. No intellectual noise.
 
-6. **Compression Without Loss**
+6. **Compression Without Density Creep**
    Dense thinking. Light language.
 
 ---
 
 # STRUCTURAL ARCHITECTURE (MANDATORY)
 
-Each topic must contain **three tightly integrated components**:
+Every topic must contain exactly three components:
+
+1. RIGHT PAGE — Article
+2. LEFT PAGE — Visual Note
+3. YouTube Short — Reinforcement
+
+All three must align conceptually.
+No idea expansion across formats.
 
 ---
 
-## 1️⃣ RIGHT PAGE — ARTICLE (350–390 words)
+# 1️⃣ RIGHT PAGE — ARTICLE (350–390 words)
 
-Cassie Kozyrkov–inspired clarity standard.
-
-Must follow:
+### Standards
 
 * One central idea only
-* Why-before-how progression
-* Clean conceptual bridge from previous topic
+* Clean bridge from previous topic
 * Natural setup for next topic
+* Why-before-how progression
 * No scope creep
-* No abstraction layering
 * No repetition
 * No filler
 
-Structure:
+### Structure Pattern
 
 * Opening tension or contrast
-* Concept explanation
+* Concept clarification
 * Practical implication
 * Bridge forward
 
+Failure in conceptual containment = rewrite.
+
 ---
 
-## 2️⃣ LEFT PAGE — VISUAL NOTE
+# 2️⃣ LEFT PAGE — VISUAL NOTE
 
-Karina Viola Stolz–inspired visual clarity.
+(Karina Viola Stolz style discipline)
 
-### Mandatory Rules
+### Structural Rules
 
-* Exactly **7–8 sections**
-* Each section:
+* Exactly 7–8 sections
+* Each section must include:
 
-  * Small icon (concept anchor)
-  * 2–4 bullets
-* Bullet = **short conceptual handle**
-* Cue (in parentheses) = **short clarifying phrase**
-* Cue explains bullet
-* Cue does NOT introduce new idea
-* If cue feels like second bullet → fail
-* If bullet reads like explanation → tighten
+  * Relevant icon
+  * Section header
+  * 2–4 short bullets
+  * Cue phrases in parentheses
+
+---
+
+## 🔒 Icon Rule (Permanent)
+
+Each section must include a **relevant, concept-aligned icon**.
+
+Icon must:
+
+* Represent the core section idea
+* Be intuitive and drawable
+* Not be decorative
+* Pass the memory-anchor test
+
+If icon requires explanation → reject.
+If icon is symbolic but not structural → reject.
+If repeated without reason → revise.
+
+---
+
+## Bullet & Cue Grammar (Permanent)
+
+Bullet:
+
+* Minimal conceptual handle
+* Not explanatory
+* Not a sentence
+* Stable idea block
+
+Cue (in parentheses):
+
+* Short clarifying phrase
+* Explains the bullet
+* Adds no new idea
+* Slight expansion only
+
+If cue introduces a new dimension → fail.
+If bullet reads like explanation → compress.
+
+---
+
+## Visual Flow Requirement
+
+* Sections must progress logically
+* Feels like staircase, not list
+* Fully drawable in under 7 minutes
 * No density creep
-* Fully drawable
-* Logical progression required
-
-Visual progression must feel like a staircase, not a list.
 
 ---
 
-## 3️⃣ YOUTUBE SHORT (~60 seconds)
+# 3️⃣ YOUTUBE SHORT (~60 seconds)
 
 Purpose: Reinforcement only.
+No expansion beyond article.
 
-Rules:
+---
 
-* No new ideas
-* No expansion
-* Conceptual recap
-* High clarity
-* Spoken rhythm friendly
+## 🔒 Sentence-Length Rule (Permanent)
+
+Sentences must be:
+
+* Medium length
+* Natural conversational rhythm
+* Simple spoken English
+* Not choppy
+* Not overly dramatic
+* Not textbook
+* Not compressed fragments
+
+Over-fragmentation = structural violation.
+Over-complexity = structural violation.
 
 ---
 
@@ -117,13 +177,14 @@ Rules:
 
 All three formats must:
 
-* Express the same idea
-* Maintain conceptual alignment
+* Express the same single idea
+* Maintain tone consistency
+* Preserve conceptual boundaries
 * Avoid scope expansion
-* Preserve language discipline
 * Reinforce memory structure
 
-If one format introduces a new idea → structural violation.
+If YouTube introduces a new idea → rewrite.
+If Visual adds depth beyond article → rewrite.
 
 ---
 
@@ -131,22 +192,21 @@ If one format introduces a new idea → structural violation.
 
 Each topic must:
 
-* Connect clearly to previous
+* Connect explicitly to previous
 * Introduce only one new constraint
 * Prepare mental ground for next
-* Avoid jumping abstraction layers
+* Avoid abstraction jumps
 
-Progression must feel cumulative and intentional.
+Progression must feel cumulative and controlled.
 
 ---
 
 # LANGUAGE GUARDRAILS
 
-* No buzzwords unless defined
+* No buzzwords without definition
 * No dramatic metaphors
-* No intellectual showing off
-* No overloaded sentences
-* No academic tone inflation
+* No clever phrasing for performance
+* No academic inflation
 * No vague generalities
 
 Clarity > cleverness
@@ -154,50 +214,32 @@ Precision > performance
 
 ---
 
-# VISUAL NOTE STRUCTURAL CLARIFICATION (PERMANENT RULE)
-
-Bullet:
-
-* Minimal phrase
-* Stable conceptual block
-* Not explanatory
-* Not a sentence
-
-Cue:
-
-* Compressed clarification
-* 1 short phrase
-* Slight expansion only
-* No new concept introduction
-
-If cue adds new dimension → rewrite
-If bullet feels like explanation → compress
-
-This is now the permanent grammar.
-
----
-
-# INTERNAL PRE-PUBLISH DISCIPLINE CHECKLIST
+# PRE-PUBLISH CHECKLIST (MANDATORY)
 
 Before finalizing any topic:
 
-* ✔ Single idea preserved?
-* ✔ Why-before-how respected?
-* ✔ Visual sections 7–8?
-* ✔ Bullet minimal?
-* ✔ Cue clarifying only?
-* ✔ No density creep?
-* ✔ Logical progression intact?
-* ✔ Clean bridge forward?
+* ✔ Single idea preserved
+* ✔ Why-before-how respected
+* ✔ 350–390 word article
+* ✔ 7–8 visual sections
+* ✔ Relevant icon per section
+* ✔ Bullets minimal
+* ✔ Cues clarify only
+* ✔ Logical staircase progression
+* ✔ Medium-length YouTube sentences
+* ✔ No density creep
+* ✔ Clean bridge forward
 
-If any fail → revise.
+If any item fails → revise before publishing.
 
 ---
 
 # STATUS
 
-This document supersedes all previous versions.
+This is the **only active version**.
 
-**Master Framework v3 (Feb 2026) is now the single authoritative version.**
+All prior frameworks are deleted and superseded.
+No silent modifications permitted.
+Changes require explicit instruction.
 
-Locked.
+**Master Framework v3 (Feb 2026) — Locked.**
