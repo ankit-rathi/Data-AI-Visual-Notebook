@@ -1,169 +1,203 @@
-# 📘 Data & AI: A Visual Notebook
+Absolutely.
+Below is the **official, active, authoritative version** of:
+
+# **Data & AI Visual Notebook – Master Framework (Locked v3, Feb 2026)**
+
+This is the permanent structural standard now in force.
 
 ---
 
-## 🔒 Data & AI Content — UPDATED Final Template
+# CORE IDENTITY
 
-### 🔹 How you will prompt me
+**Theme:** Judgment Under Uncertainty
 
-```
-Use the locked Data and AI content template.
-Previous Topic: X
-Current Topic: Y
-Next Topic: Z
-```
+This notebook is not about tools.
+It is about thinking clearly when reality is messy.
 
----
+Data is imperfect.
+Measurement is flawed.
+Models are abstractions.
 
-## 📐 GLOBAL RULES (Apply to ALL topics)
-
-1. **First-principles thinking**
-
-   * Explain *why the concept exists* before *what it is*
-   * Build intuition before terminology
-
-2. **No repetition rule**
-
-   * Assume **Previous Topic is fully understood**
-   * Do NOT restate or re-explain it
-   * Only extend the mental model forward
-
-3. **Cross-format cohesion**
-
-   * Article, Visual Note, and YouTube Shorts must:
-
-     * Express the same core ideas
-     * Reinforce each other from different angles
-     * Never introduce new concepts independently
-
-4. **Learning-first**
-
-   * Focus on judgment, reasoning, and decision quality
-   * Tools, math, or systems only serve understanding
+The goal is disciplined judgment — not mechanical output.
 
 ---
 
-## 🧠 OUTPUT STRUCTURE (ALWAYS IN THIS ORDER)
+# TEACHING PHILOSOPHY
+
+1. **Cognition Before Computation**
+   Thinking precedes tooling.
+
+2. **Why Before How**
+   Concepts before techniques.
+
+3. **Single Idea Per Unit**
+   No abstraction stacking.
+
+4. **Memory-First Design**
+   Structure must aid recall.
+
+5. **Calm Authority Tone**
+   No hype. No drama. No intellectual noise.
+
+6. **Compression Without Loss**
+   Dense thinking. Light language.
 
 ---
 
-## RIGHT PAGE — ARTICLE
+# STRUCTURAL ARCHITECTURE (MANDATORY)
 
-**Style:** Cassie Kozyrkov
-**Length:** ~370 words (comfortably fits one book page)
-**Tone:** Clear, analytical, calm, insight-driven
-
-**Must include:**
-
-* First-principles motivation
-* Real-life + business intuition
-* Clear conceptual boundaries
-* Final paragraph that *naturally hands off* to **Next Topic**
+Each topic must contain **three tightly integrated components**:
 
 ---
 
-## LEFT PAGE — VISUAL NOTE
+## 1️⃣ RIGHT PAGE — ARTICLE (350–390 words)
 
-**Style:** Karina Viola Stolz
-**Format:** Single page, hand-drawable, uncluttered
+Cassie Kozyrkov–inspired clarity standard.
 
-### TOP
+Must follow:
 
-**Topic Title**
-**Punchy Tagline**
+* One central idea only
+* Why-before-how progression
+* Clean conceptual bridge from previous topic
+* Natural setup for next topic
+* No scope creep
+* No abstraction layering
+* No repetition
+* No filler
 
-* One short phrase
-* Intuitive, memorable
-* *Not a sentence*
+Structure:
 
-> Example:
-> **Uncertainty and Outcomes**
-> *Knowing less than we’d like*
-
----
-
-### BODY (6–8 sections max)
-
-For **each section**:
-
-1. **Section Heading**
-2. **ONE big icon suggestion** (central metaphor)
-3. **2–4 short bullets**
-
-   * Simple language
-   * Memory-first
-   * **Phrases, not sentences**
-4. **Optional bracketed elaboration for EACH bullet**
-
-   * Example, intuition, analogy, or clarification
-   * Clearly skippable if space is limited
-   * No explicit “Cue” label — brackets imply optional depth
-
-> Default view stays clean
-> Brackets are for depth, not clutter
+* Opening tension or contrast
+* Concept explanation
+* Practical implication
+* Bridge forward
 
 ---
 
-### END
+## 2️⃣ LEFT PAGE — VISUAL NOTE
 
-**Explicit bridge to Next Topic**
+Karina Viola Stolz–inspired visual clarity.
 
-* Why the next idea is necessary
-* What breaks without it
+### Mandatory Rules
 
----
+* Exactly **7–8 sections**
+* Each section:
 
-## 🎥 YOUTUBE SHORTS — 60-SECOND TRANSCRIPT
+  * Small icon (concept anchor)
+  * 2–4 bullets
+* Bullet = **short conceptual handle**
+* Cue (in parentheses) = **short clarifying phrase**
+* Cue explains bullet
+* Cue does NOT introduce new idea
+* If cue feels like second bullet → fail
+* If bullet reads like explanation → tighten
+* No density creep
+* Fully drawable
+* Logical progression required
 
-**Style:** Spoken, thoughtful, conversational
-**Sentence length:** **Short to medium**
-
-* Not punchy fragments
-* Not long lectures
-
-**Tone:**
-
-* Calm
-* Reflective
-* Intuitive
-* Sounds like *you explaining something you’ve thought about*
-
-**Rules:**
-
-* No slogans
-* No hype
-* No jargon without intuition
-* End by clearly teeing up the **Next Topic**
+Visual progression must feel like a staircase, not a list.
 
 ---
 
-## 🔁 CONSISTENCY CHECK (INTERNAL)
+## 3️⃣ YOUTUBE SHORT (~60 seconds)
 
-Before finalizing:
+Purpose: Reinforcement only.
 
-* Same idea appears across:
+Rules:
 
-  * Article → depth
-  * Visual Note → memory
-  * Shorts → intuition
-* No repetition of Previous Topic
-* No conceptual drift
-* Clean handoff to Next Topic
+* No new ideas
+* No expansion
+* Conceptual recap
+* High clarity
+* Spoken rhythm friendly
+
+---
+
+# CROSS-FORMAT INTEGRITY
+
+All three formats must:
+
+* Express the same idea
+* Maintain conceptual alignment
+* Avoid scope expansion
+* Preserve language discipline
+* Reinforce memory structure
+
+If one format introduces a new idea → structural violation.
 
 ---
 
-## ✅ Cross-check vs previous version (nothing lost)
+# TOPIC SEQUENCING DISCIPLINE
 
-- ✔ Cassie-style article (~370 words) — retained
-- ✔ Karina-style visual notes — refined, not diluted
-- ✔ Optional cues per bullet — clarified, cleaner
-- ✔ Big icon per section — retained
-- ✔ YouTube Shorts speaking preference — **improved**
-- ✔ Cross-format cohesion rule — retained
-- ✔ No-repetition constraint — retained
-- ✔ Prompt format — retained
+Each topic must:
 
-**Net effect:**
-The template is now **more precise, more drawable, more “you”** — without losing any structural strength.
+* Connect clearly to previous
+* Introduce only one new constraint
+* Prepare mental ground for next
+* Avoid jumping abstraction layers
+
+Progression must feel cumulative and intentional.
 
 ---
+
+# LANGUAGE GUARDRAILS
+
+* No buzzwords unless defined
+* No dramatic metaphors
+* No intellectual showing off
+* No overloaded sentences
+* No academic tone inflation
+* No vague generalities
+
+Clarity > cleverness
+Precision > performance
+
+---
+
+# VISUAL NOTE STRUCTURAL CLARIFICATION (PERMANENT RULE)
+
+Bullet:
+
+* Minimal phrase
+* Stable conceptual block
+* Not explanatory
+* Not a sentence
+
+Cue:
+
+* Compressed clarification
+* 1 short phrase
+* Slight expansion only
+* No new concept introduction
+
+If cue adds new dimension → rewrite
+If bullet feels like explanation → compress
+
+This is now the permanent grammar.
+
+---
+
+# INTERNAL PRE-PUBLISH DISCIPLINE CHECKLIST
+
+Before finalizing any topic:
+
+* ✔ Single idea preserved?
+* ✔ Why-before-how respected?
+* ✔ Visual sections 7–8?
+* ✔ Bullet minimal?
+* ✔ Cue clarifying only?
+* ✔ No density creep?
+* ✔ Logical progression intact?
+* ✔ Clean bridge forward?
+
+If any fail → revise.
+
+---
+
+# STATUS
+
+This document supersedes all previous versions.
+
+**Master Framework v3 (Feb 2026) is now the single authoritative version.**
+
+Locked.
