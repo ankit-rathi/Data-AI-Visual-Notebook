@@ -27,94 +27,86 @@ The next discipline is learning how to tell the difference: separating signal fr
 
 LEFT PAGE — VISUAL NOTE
 
-From Events to Data
+# **From Events to Data**
 
-Change becomes record
-
-
----
-
-1️⃣ 🌍 Events Happen
-
-Reality shifts in time (real change)
-
-Moments pass quickly (fleeting)
-
-Not all are remembered (lost unless stored)
-
-
+**Change becomes record**
 
 ---
 
-2️⃣ ✍️ Recording Is a Choice
+### 1️⃣ 🌍 Events Happen
 
-We decide what to log (design choice)
-
-Some details ignored (selective capture)
-
-Judgment shapes storage (priority filter)
-
-
-
----
-
-3️⃣ 🧊 Structure Is Imposed
-
-Timestamp anchors moment (time key)
-
-IDs define entities (who or what)
-
-Fields define attributes (structured slice)
-
-
+* Real change
+  *(reality shifts in time)*
+* Fleeting
+  *(moments pass quickly)*
+* Not remembered
+  *(lost unless stored)*
 
 ---
 
-4️⃣ 📉 Context Is Reduced
+### 2️⃣ ✍️ Recording Is Choice
 
-Rich situations simplified (lossy shift)
-
-Ambiguity becomes category (forced clarity)
-
-Detail becomes data points (compressed view)
-
-
-
----
-
-5️⃣ ⚠️ Capture Can Distort
-
-Tools introduce error (measurement limit)
-
-Definitions can change (standard drift)
-
-Logging gaps occur (missing events)
-
-
+* Design decision
+  *(we decide what to log)*
+* Selective capture
+  *(some details ignored)*
+* Priority filter
+  *(judgment shapes storage)*
 
 ---
 
-6️⃣ 🏗 Data Shapes Insight
+### 3️⃣ 🧊 Structure Imposed
 
-What’s stored can be analyzed (visibility rule)
-
-What’s excluded disappears (blind spot)
-
-Schema guides conclusions (design imprint)
-
-
+* Time key
+  *(timestamp anchors moment)*
+* Entity ID
+  *(defines who or what)*
+* Structured fields
+  *(attributes made explicit)*
 
 ---
 
-7️⃣ 🧠 Look Upstream
+### 4️⃣ 📉 Context Reduced
 
-What events were recorded? (trace back)
+* Lossy shift
+  *(rich situations simplified)*
+* Forced clarity
+  *(ambiguity becomes category)*
+* Compressed view
+  *(detail becomes data points)*
 
-How were they defined? (definition check)
+---
 
-What was excluded? (missing layer)
+### 5️⃣ ⚠️ Capture Distorts
 
+* Measurement limit
+  *(tools introduce error)*
+* Standard drift
+  *(definitions can change)*
+* Missing events
+  *(logging gaps occur)*
 
+---
+
+### 6️⃣ 🏗 Insight Bounded
+
+* Visibility rule
+  *(only stored events analyzed)*
+* Blind spots
+  *(excluded events disappear)*
+* Design imprint
+  *(schema guides conclusions)*
+
+---
+
+### 7️⃣ 🧠 Look Upstream
+
+* Trace back
+  *(what events were recorded?)*
+* Definition check
+  *(how were they defined?)*
+* Missing layer
+  *(what was excluded?)*
 
 ---
 
