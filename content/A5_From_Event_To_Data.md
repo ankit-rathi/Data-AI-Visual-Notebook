@@ -1,6 +1,6 @@
-RIGHT PAGE — ARTICLE
+## RIGHT PAGE — ARTICLE
 
-From Events to Data
+### From Events to Data
 
 Events mark moments where reality changes. A payment succeeds. A machine stops. A customer leaves. These shifts happen in time whether or not anyone records them. But events alone are still fleeting. Once they pass, they exist only in memory.
 
@@ -25,9 +25,9 @@ The next discipline is learning how to tell the difference: separating signal fr
 
 ---
 
-LEFT PAGE — VISUAL NOTE
+## LEFT PAGE — VISUAL NOTE
 
-# **From Events to Data**
+### **From Events to Data**
 
 **Change becomes record**
 
@@ -110,7 +110,7 @@ LEFT PAGE — VISUAL NOTE
 
 ---
 
-YOUTUBE SHORTS (~60 seconds)
+## YOUTUBE SHORTS (~60 seconds)
 
 In the last topic, we defined events as moments where reality changes.
 
