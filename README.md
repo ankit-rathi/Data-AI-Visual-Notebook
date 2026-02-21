@@ -11,7 +11,7 @@
 
 # 📘 Redesigned TOC
 
-**Data & AI Visual Notebook**
+**From Data To Decisions: Visual Notebook**
 
 > Designing Systems That Turn Data Into Better Decisions
 
