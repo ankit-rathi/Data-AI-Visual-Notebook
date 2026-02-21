@@ -11,9 +11,9 @@
 
 # 📘 Redesigned TOC
 
-**From Data To Decisions: Visual Notebook**
+**From Data to Decisions**
 
-> Designing Systems That Turn Data Into Better Decisions
+> Designing Decision Systems Under Real-World Constraints
 
 ---
 
