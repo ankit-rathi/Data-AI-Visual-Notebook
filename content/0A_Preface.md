@@ -1,6 +1,7 @@
 Strictly following Data & AI Visual Notebook – Master Framework v3 (Feb 2026)
-Preface — Single Integrated Concept
-Constraint: Right Page Article < 400 words (≈385 words) and must clearly include Who Should Read This Book
+Polished Preface — Unified Opening Artifact
+Constraint: Right Page < 400 words (~392 words)
+Includes refined flow, sharper positioning, and structurally aligned Visual Note with cues.
 
 
 ---
@@ -11,13 +12,13 @@ Data & AI as Decision Architecture
 
 Over the past decade, organizations have invested heavily in data platforms, analytics systems, and artificial intelligence. Dashboards have multiplied. Machine learning models have entered production. Large language models now assist daily workflows.
 
-Yet one question persists:
+Yet one question remains unresolved:
 
 Are decisions actually improving?
 
-Metrics often rise without meaningful behavioral change. Models perform well offline but degrade in real environments. Dashboards are accessed but not fully trusted. AI systems are built, yet measurable economic value remains difficult to trace.
+Metrics often rise without meaningful behavioral change. Models perform well offline but struggle in real environments. Dashboards are accessed but not consistently trusted. AI systems are deployed, yet economic impact is difficult to trace.
 
-The problem is rarely technical sophistication.
+The issue is rarely technical capability.
 
 It is the absence of decision-centered design.
 
@@ -29,7 +30,7 @@ Decision quality.
 
 Organizations exist to allocate resources under uncertainty. The quality of those allocations determines long-term value. Every layer of the data stack influences that quality.
 
-Reality must be abstracted into data. Storage encodes tradeoffs. Architecture governs information flow. Modeling shapes which patterns become visible. Machine learning optimizes expected outcomes probabilistically. Operationalization embeds intelligence into workflows. Strategy ensures alignment with economic purpose.
+Reality must be abstracted into data. Storage encodes tradeoffs. Architecture governs information flow. Modeling determines which patterns become visible. Machine learning optimizes expected outcomes probabilistically. Operationalization embeds intelligence into workflows. Strategy aligns local optimization with economic purpose.
 
 Each layer either strengthens or weakens decisions.
 
@@ -37,13 +38,13 @@ Who Should Read This Book
 
 This book is written for practitioners operating where technology meets organizational reality:
 
-Data professionals seeking conceptual clarity beyond tools.
+Data professionals seeking conceptual depth beyond tools.
 
 Data product owners accountable for measurable impact.
 
-Architects designing systems under regulatory or operational constraints.
+Architects designing under regulatory and operational constraints.
 
-Leaders evaluating ROI, tradeoffs, and risk in data investments.
+Leaders evaluating ROI, tradeoffs, and risk.
 
 Decision-makers who suspect that “data-driven” does not automatically mean “decision-improving.”
 
@@ -69,39 +70,49 @@ Tagline: From technical capability to decision accountability
 
 ---
 
-1️⃣ The Core Question
+1️⃣ Core Question
 
 Icon: ❓ Compass
+Cue: Problem Framing
 
-Data & AI investment rising
+Rising data & AI investment
+(technical capability expanding)
 
-Technical sophistication increasing
+Increasing platform complexity
+(infrastructure maturing)
 
-But: Are decisions improving?
+Unclear improvement in decisions
+(impact ambiguity)
 
 
 
 ---
 
-2️⃣ The Hidden Gap
+2️⃣ Structural Gap
 
 Icon: ⚠️ Fracture
+Cue: Misalignment Diagnosis
 
-Metrics ≠ behavior change
+Metrics improve
+(numbers move)
 
-Offline accuracy ≠ real impact
+Behavior stagnates
+(decisions unchanged)
 
-Dashboards ≠ trust
+Offline model success
+(controlled validation)
 
-AI ≠ measurable value
+Production friction
+(real-world constraints)
 
 
 
 ---
 
-3️⃣ The Reframe
+3️⃣ Reframing Objective
 
 Icon: 🔄 Shift
+Cue: Goal Clarification
 
 Data ≠ goal
 
@@ -118,38 +129,52 @@ Decision quality = goal
 4️⃣ The Decision Stack
 
 Icon: 🏗️ Layers
+Cue: System Architecture
 
-Reality → Data
+Reality abstraction
+(modeling the world)
 
-Storage → Tradeoffs
+Storage tradeoffs
+(consistency, cost, scale)
 
-Architecture → Flow
+Architecture flow
+(right data, right time)
 
-Modeling → Signals
+Modeling signals
+(pattern visibility)
 
-ML → Optimization
+ML optimization
+(probabilistic improvement)
 
-Operations → Action
+Operational embedding
+(workflow integration)
 
-Strategy → Economic alignment
+Strategic alignment
+(economic purpose)
 
 
 
 ---
 
-5️⃣ Who This Book Is For
+5️⃣ Intended Audience
 
 Icon: 👥 Audience
+Cue: Reader Positioning
 
 Data professionals
+(seeking conceptual clarity)
 
 Product owners
+(responsible for ROI)
 
 Architects
+(designing under constraint)
 
-Leaders evaluating ROI
+Leaders
+(balancing risk & investment)
 
-Decision-makers questioning “data-driven” claims
+Skeptical decision-makers
+(questioning “data-driven” claims)
 
 
 
@@ -158,14 +183,18 @@ Decision-makers questioning “data-driven” claims
 6️⃣ Central Thesis
 
 Icon: 🎯 Target
+Cue: Foundational Claim
 
-Systems must improve decisions
+Systems shape decisions
+(structure drives behavior)
 
 Tradeoffs must be explicit
+(no hidden assumptions)
 
 Intelligence must be accountable
+(measurable impact)
 
-Value must be measurable
+Value = improved decisions
 
 
 
@@ -181,16 +210,21 @@ Large language models assist workflows.
 
 But here is the real question.
 
-Are decisions actually getting better?
+Are decisions actually improving?
 
-This book argues that the problem is not technology.
+This book argues that the issue is not technology.
 It is design orientation.
 
 Most systems optimize storage or prediction.
-Very few are built as decision architectures under uncertainty.
+Very few are intentionally designed as decision architectures under uncertainty.
 
-This book is for data professionals, product owners, architects, and leaders who care about ROI and risk.
+This book is for data professionals, product owners, architects, and leaders who care about measurable impact.
 
 Because data does not create value.
 
 Better decisions do.
+
+
+---
+
+If you'd like, we can now finalize this as the official Preface lock version for the book manuscript.
