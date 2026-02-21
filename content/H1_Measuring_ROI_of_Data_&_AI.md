@@ -9,7 +9,7 @@ Single idea only. Clean bridge forward.
 
 ## Measuring ROI of Data & AI
 
-In earlier sections, we built systems to capture events, structure data, filter signal, and reduce error. We improved models and clarified decision logic.
+In the previous section, we shifted from intelligence to execution — designing AI systems that are not only accurate, but resilient, governable, cost-aware, secure, and safe for real-world use.
 
 But strategy introduces a harder question:
 
