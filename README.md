@@ -17,138 +17,138 @@
 
 ---
 
-# 🧱 PART A — Decisions, Uncertainty & Value (The Core)
+# 🧱 PART 1 — Decisions, Uncertainty & Value (The Core)
 
-1. What Is a Decision (and Why Most Systems Ignore It)
-2. Uncertainty, Risk & Expected Value
-3. Signal vs Noise in Real Organizations
-4. Metrics vs Reality — When KPIs Lie
-5. Correlation, Causation & False Confidence
-6. Prediction vs Explanation — Business Implications
-7. Tradeoffs — No Perfect Systems
-8. Decision Quality vs Outcome Quality
-9. Feedback Loops & Learning Systems
+A. What Is a Decision (and Why Most Systems Ignore It)
+B. Uncertainty, Risk & Expected Value
+C. Signal vs Noise in Real Organizations
+D. Metrics vs Reality — When KPIs Lie
+E. Correlation, Causation & False Confidence
+F. Prediction vs Explanation — Business Implications
+G. Tradeoffs — No Perfect Systems
+H. Decision Quality vs Outcome Quality
+I. Feedback Loops & Learning Systems
 
 🔎 Why this matters:
 You’re anchoring everything in decision theory — your differentiator.
 
 ---
 
-# 📦 PART B — From Reality to Data (Modeling the World)
+# 📦 PART 2 — From Reality to Data (Modeling the World)
 
-1. Events, States & Time
-2. Entities, Attributes & Relationships
-3. Structured vs Unstructured Reality
-4. Identifiers, Keys & Meaning
-5. Data Models (Relational / Document / Graph)
-6. Schema & Constraints as Business Rules
-7. Data Quality — Failure Modes in Practice
-8. Bias, Missingness & Measurement Error
-9. Systems of Record vs Systems of Insight
+A. Events, States & Time
+B. Entities, Attributes & Relationships
+C. Structured vs Unstructured Reality
+D. Identifiers, Keys & Meaning
+E. Data Models (Relational / Document / Graph)
+F. Schema & Constraints as Business Rules
+G. Data Quality — Failure Modes in Practice
+H. Bias, Missingness & Measurement Error
+I. Systems of Record vs Systems of Insight
 
 Add:
-10. When Data Does Not Represent Reality
+J. When Data Does Not Represent Reality
 
 This adds intellectual sharpness.
 
 ---
 
-# 🗄 PART C — Storage & System Tradeoffs
+# 🗄 PART 3 — Storage & System Tradeoffs
 
-1. Why Databases Exist
-2. OLTP vs OLAP — Competing Optimizations
-3. Data Warehouses vs Lakes — Cost vs Flexibility
-4. SQL vs NoSQL — Tradeoffs
-5. Indexing & Query Optimization
-6. Transactions, Consistency & Trust
-7. CAP Theorem — Distributed Tradeoffs
+A. Why Databases Exist
+B. OLTP vs OLAP — Competing Optimizations
+C. Data Warehouses vs Lakes — Cost vs Flexibility
+D. SQL vs NoSQL — Tradeoffs
+E. Indexing & Query Optimization
+F. Transactions, Consistency & Trust
+G. CAP Theorem — Distributed Tradeoffs
 
 Add:
-8. Architectural Decisions as Risk Allocation
+H. Architectural Decisions as Risk Allocation
 
 Now it’s thought-leadership, not just infrastructure.
 
 ---
 
-# 🏗 PART D — Data Architecture in the Real World
+# 🏗 PART 4 — Data Architecture in the Real World
 
-1. Data Pipelines — Flow & Transformation
-2. Batch vs Streaming — Latency vs Stability
-3. ETL vs ELT — Where Logic Lives
-4. Integration Patterns & Complexity Growth
-5. Distributed Systems — Failure Patterns
-6. Observability & Monitoring
+A. Data Pipelines — Flow & Transformation
+B. Batch vs Streaming — Latency vs Stability
+C. ETL vs ELT — Where Logic Lives
+D. Integration Patterns & Complexity Growth
+E. Distributed Systems — Failure Patterns
+F. Observability & Monitoring
 
 Add:
-7. Why Data Platforms Fail in Organizations
-8. Adoption vs Architecture — The Hidden Bottleneck
+G. Why Data Platforms Fail in Organizations
+H. Adoption vs Architecture — The Hidden Bottleneck
 
 This is critical for brand differentiation.
 
 ---
 
-# ⚙️ PART E — Analytical Modeling & Measurement
+# ⚙️ PART 5 — Analytical Modeling & Measurement
 
-1. Aggregation & Transformation
-2. Dimensional Modeling — Facts & Dimensions
-3. Feature Engineering — Encoding Reality
-4. Evaluation Metrics — What Are We Optimizing?
-5. Real-Time vs Offline Tradeoffs
+A. Aggregation & Transformation
+B. Dimensional Modeling — Facts & Dimensions
+C. Feature Engineering — Encoding Reality
+D. Evaluation Metrics — What Are We Optimizing?
+E. Real-Time vs Offline Tradeoffs
 
 Add:
-6. When Models Improve Metrics but Not Decisions
+F. When Models Improve Metrics but Not Decisions
 
 That’s your edge.
 
 ---
 
-# 🤖 PART F — Machine Learning & AI Foundations
+# 🤖 PART 6 — Machine Learning & AI Foundations
 
-1. What ML Really Is (Optimization Under Uncertainty)
-2. Supervised vs Unsupervised
-3. Training vs Inference
-4. Overfitting & Generalization
-5. Model Evaluation & Validation
-6. Drift, Monitoring & Model Decay
-7. Neural Networks — Core Idea
-8. Embeddings & Representation Learning
-9. Large Language Models — What They Actually Do
-10. Retrieval-Augmented Generation (RAG)
+A. What ML Really Is (Optimization Under Uncertainty)
+B. Supervised vs Unsupervised
+C. Training vs Inference
+D. Overfitting & Generalization
+E. Model Evaluation & Validation
+F. Drift, Monitoring & Model Decay
+G. Neural Networks — Core Idea
+H. Embeddings & Representation Learning
+I. Large Language Models — What They Actually Do
+J. Retrieval-Augmented Generation (RAG)
 
 Add:
-11. When NOT to Use Machine Learning
+K. When NOT to Use Machine Learning
 
 Strategic layer.
 
 ---
 
-# 🚀 PART G — Operationalizing AI Systems
+# 🚀 PART 7 — Operationalizing AI Systems
 
-1. From Model to Production
-2. Automation vs Human-in-the-Loop
-3. Reliability, Resilience & Recovery
-4. Cost vs Performance Tradeoffs
-5. Governance & Lineage
-6. Privacy, Bias & Responsible AI
-7. Security & Access Control
+A. From Model to Production
+B. Automation vs Human-in-the-Loop
+C. Reliability, Resilience & Recovery
+D. Cost vs Performance Tradeoffs
+E. Governance & Lineage
+F. Privacy, Bias & Responsible AI
+7=G. Security & Access Control
 
 Add:
-8. AI in Regulated Environments (Bank Context)
+H. AI in Regulated Environments (Bank Context)
 
 That’s highly differentiated.
 
 ---
 
-# 💰 PART H — Strategy, ROI & Decision Systems
+# 💰 PART 8 — Strategy, ROI & Decision Systems
 
-1. Measuring ROI of Data & AI
-2. Build vs Buy — Strategic Tradeoffs
-3. Incentive Alignment in Data Organizations
-4. Decision Velocity vs Decision Quality
-5. Scaling Data Products
-6. Designing for Change & Evolution
-7. End-to-End Data & AI System Map
-8. Designing Systems That Make Better Decisions Inevitable
+A. Measuring ROI of Data & AI
+B. Build vs Buy — Strategic Tradeoffs
+C. Incentive Alignment in Data Organizations
+D. Decision Velocity vs Decision Quality
+E. Scaling Data Products
+F. Designing for Change & Evolution
+G. End-to-End Data & AI System Map
+H. Designing Systems That Make Better Decisions Inevitable
 
 This is where your voice becomes strong.
 
