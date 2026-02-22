@@ -1,245 +1,206 @@
-Below is the **latest locked and authoritative version** of:
+Stored.
 
-# **Data & AI Visual Notebook – Master Framework v3 (Feb 2026)**
-
-*Status: Final. Active. Governing.*
-
-This version includes:
-
-* Icon alignment rule (Visual Notes)
-* Medium-length sentence rule (YouTube Shorts)
-* All prior structural constraints
-* All prior versions superseded
+Below is the **only active and locked version** of your framework for reference.
 
 ---
 
-# CORE IDENTITY
+# **Data & AI Visual Notebook – Master Framework v3 (First-Principles Constitution, Refined)**
 
-**Theme:** Judgment Under Uncertainty
+**Status: Active. Governing. Locked.**
 
-This notebook is not about tools.
-It is about disciplined thinking when reality is imperfect.
-
-Data is incomplete.
-Measurement is flawed.
-Models are abstractions.
-
-The objective is structured judgment — not output generation.
+All prior versions superseded.
 
 ---
 
-# TEACHING PHILOSOPHY
+# I. Foundational Axiom
 
-1. **Cognition Before Computation**
-   Thinking precedes tools.
+The purpose of this notebook is to train disciplined judgment under uncertainty.
 
-2. **Why Before How**
-   Concept before method.
-
-3. **Single Idea Per Topic**
-   No abstraction stacking.
-
-4. **Memory-First Design**
-   Structure must aid recall.
-
-5. **Calm Authority Tone**
-   No hype. No intellectual noise.
-
-6. **Compression Without Density Creep**
-   Dense thinking. Light language.
+Anything that does not strengthen structured reasoning is removed.
 
 ---
 
-# STRUCTURAL ARCHITECTURE (MANDATORY)
+# II. Core Cognitive Law
 
-Every topic must contain exactly three components:
+Thinking precedes tools.
 
-1. RIGHT PAGE — Article
-2. LEFT PAGE — Visual Note
-3. YouTube Short — Reinforcement
+Therefore:
 
-All three must align conceptually.
-No idea expansion across formats.
+* Definitions before techniques
+* Assumptions before conclusions
+* Tradeoffs before optimization
+* Decision quality before outcome quality
 
----
-
-# 1️⃣ RIGHT PAGE — ARTICLE (350–390 words)
-
-### Standards
-
-* One central idea only
-* Clean bridge from previous topic
-* Natural setup for next topic
-* Why-before-how progression
-* No scope creep
-* No repetition
-* No filler
-
-### Structure Pattern
-
-* Opening tension or contrast
-* Concept clarification
-* Practical implication
-* Bridge forward
-
-Failure in conceptual containment = rewrite.
+Mechanics without reasoning is structural failure.
 
 ---
 
-# 2️⃣ LEFT PAGE — VISUAL NOTE
+# III. Single-Idea Law
 
-(Karina Viola Stolz style discipline)
+Each topic contains exactly one irreducible idea.
 
-### Structural Rules
+If two independent ideas appear → split.
+If abstraction layers stack → simplify.
+If scope expands → defer to next topic.
 
-* Exactly 7–8 sections
-* Each section must include:
-
-  * Relevant icon
-  * Section header
-  * 2–4 short bullets
-  * Cue phrases in parentheses
+Containment is mandatory.
 
 ---
 
-## 🔒 Icon Rule (Permanent)
+# IV. Structural Triad
 
-Each section must include a **relevant, concept-aligned icon**.
+Each idea must exist in three synchronized forms:
 
-Icon must:
+1. **Article** — reasoning clarity
+2. **Visual Note** — memory structure
+3. **YouTube Short** — spoken reinforcement
 
-* Represent the core section idea
-* Be intuitive and drawable
-* Not be decorative
-* Pass the memory-anchor test
-
-If icon requires explanation → reject.
-If icon is symbolic but not structural → reject.
-If repeated without reason → revise.
+All three must express the same idea.
+No expansion across formats.
 
 ---
 
-## Bullet & Cue Grammar (Permanent)
+# V. Article Principle (Reasoning Integrity)
 
-Bullet:
+The article must:
 
-* Minimal conceptual handle
-* Not explanatory
-* Not a sentence
-* Stable idea block
+* Use first-principles reasoning
+* Follow Cassie Kozyrkov–style clarity and discipline
+* Begin from definitional grounding
+* Surface assumptions explicitly
+* Distinguish decision quality from outcome quality
+* Frame uncertainty and tradeoffs structurally
+* Maintain calm, rational authority
+* Avoid hype, metaphorical drama, or jargon
 
-Cue (in parentheses):
+Length constraint: **~350–390 words (target ≈370).**
 
-* Short clarifying phrase
-* Explains the bullet
-* Adds no new idea
-* Slight expansion only
+Structure must:
 
-If cue introduces a new dimension → fail.
-If bullet reads like explanation → compress.
+1. Introduce tension or misconception
+2. Clarify concept from first principles
+3. Show practical implication under uncertainty
+4. Bridge naturally to next constraint
 
----
-
-## Visual Flow Requirement
-
-* Sections must progress logically
-* Feels like staircase, not list
-* Fully drawable in under 7 minutes
-* No density creep
+If it persuades instead of clarifies → rewrite.
+If it performs instead of reasons → rewrite.
 
 ---
 
-# 3️⃣ YOUTUBE SHORT (~60 seconds)
+# VI. Visual Principle (Memory Architecture)
 
-Purpose: Reinforcement only.
-No expansion beyond article.
+The visual note must:
 
----
+* Follow Karina Viola Stolz–style structural minimalism
+* Contain exactly **7–8 sections**
+* Progress logically (staircase, not list)
+* Be drawable in under 7 minutes
+* Externalize structure, not explanation
 
-## 🔒 Sentence-Length Rule (Permanent)
+Each section must contain:
 
-Sentences must be:
+* **One explicit, relevant, concept-aligned icon suggestion**
+* One section header
+* **2–4 minimal conceptual bullets**
+* **Cue phrase with every bullet (in brackets)** — clarifying only, no new idea
 
-* Medium length
-* Natural conversational rhythm
-* Simple spoken English
-* Not choppy
-* Not overly dramatic
-* Not textbook
-* Not compressed fragments
+Icon rules:
 
-Over-fragmentation = structural violation.
-Over-complexity = structural violation.
+* One icon per section
+* Icon must represent structural meaning
+* Icon must be intuitive and drawable
+* No decorative symbolism
 
----
+Bullets = conceptual handles only.
+Cues = slight clarification only.
+No explanatory sentences inside visual.
 
-# CROSS-FORMAT INTEGRITY
-
-All three formats must:
-
-* Express the same single idea
-* Maintain tone consistency
-* Preserve conceptual boundaries
-* Avoid scope expansion
-* Reinforce memory structure
-
-If YouTube introduces a new idea → rewrite.
-If Visual adds depth beyond article → rewrite.
+If density increases → simplify.
+If explanation enters visual → compress.
 
 ---
 
-# TOPIC SEQUENCING DISCIPLINE
+# VII. Crux Law
 
-Each topic must:
+Every topic must reduce to **one sentence**.
 
-* Connect explicitly to previous
-* Introduce only one new constraint
-* Prepare mental ground for next
-* Avoid abstraction jumps
+The crux must:
 
-Progression must feel cumulative and controlled.
+* Capture the entire idea
+* Connect previous and next topic
+* Function as slide headline
+* Function as narration opener
 
----
-
-# LANGUAGE GUARDRAILS
-
-* No buzzwords without definition
-* No dramatic metaphors
-* No clever phrasing for performance
-* No academic inflation
-* No vague generalities
-
-Clarity > cleverness
-Precision > performance
+If it cannot compress into one sentence, the idea is unclear.
 
 ---
 
-# PRE-PUBLISH CHECKLIST (MANDATORY)
+# VIII. YouTube Reinforcement Law
 
-Before finalizing any topic:
+The short must:
 
-* ✔ Single idea preserved
-* ✔ Why-before-how respected
-* ✔ 350–390 word article
-* ✔ 7–8 visual sections
-* ✔ Relevant icon per section
-* ✔ Bullets minimal
-* ✔ Cues clarify only
-* ✔ Logical staircase progression
-* ✔ Medium-length YouTube sentences
-* ✔ No density creep
-* ✔ Clean bridge forward
+* Use medium-length natural spoken sentences
+* Sound conversational, not academic
+* Introduce no new idea
+* Reinforce the same conceptual boundary
 
-If any item fails → revise before publishing.
+Over-fragmentation or over-complexity = violation.
 
 ---
 
-# STATUS
+# IX. Language Guardrail
 
-This is the **only active version**.
+Clarity over cleverness.
+Precision over performance.
 
-All prior frameworks are deleted and superseded.
-No silent modifications permitted.
-Changes require explicit instruction.
+No buzzwords without definition.
+No dramatic metaphors.
+No academic inflation.
+No intellectual noise.
 
-**Master Framework v3 (Feb 2026) — Locked.**
+---
+
+# X. Drift Control Mechanism
+
+Activation phrase:
+
+> **Apply Master Framework v3 strictly.**
+
+Upon activation:
+
+* Single-idea validation
+* Cassie-style first-principles validation
+* Karina-style visual validation
+* Structural triad validation
+* Density validation
+* Cross-format integrity validation
+
+If any fails → rewrite before delivery.
+
+---
+
+# XI. Integrity Test
+
+Before publishing any topic, confirm:
+
+1. Exactly one idea?
+2. First-principles clarity with Cassie discipline?
+3. Visual follows Karina structure with one icon per section and cue per bullet?
+4. Crux fully contains the idea?
+5. All three formats aligned?
+6. No density creep?
+
+If any answer is no → revise.
+
+---
+
+# Governing Standard
+
+This is not a checklist.
+It is a compression discipline.
+
+If output feels inflated, layered, clever, or heavy — it violates the constitution.
+
+---
+
+**Master Framework v3 (First-Principles Constitution, Refined) — Locked.**
