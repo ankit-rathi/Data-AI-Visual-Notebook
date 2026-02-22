@@ -1,206 +1,166 @@
-Stored.
+Locked and stored.
 
-Below is the **only active and locked version** of your framework for reference.
-
----
-
-# **Data & AI Visual Notebook – Master Framework v3 (First-Principles Constitution, Refined)**
-
-**Status: Active. Governing. Locked.**
-
-All prior versions superseded.
+Below is the current authoritative version for your reference.
 
 ---
 
-# I. Foundational Axiom
+# **Data & AI Visual Notebook – Master Framework v3.2 (Feb 2026)**
 
-The purpose of this notebook is to train disciplined judgment under uncertainty.
-
-Anything that does not strengthen structured reasoning is removed.
+*(Active & Governance-Locked)*
 
 ---
 
-# II. Core Cognitive Law
+# I. Core Philosophy
 
-Thinking precedes tools.
+The notebook is a **decision-improvement system**, not a collection of topics.
 
-Therefore:
+Its purpose is to:
 
-* Definitions before techniques
-* Assumptions before conclusions
-* Tradeoffs before optimization
-* Decision quality before outcome quality
+* Trace how value forms.
+* Explain mechanisms from first principles.
+* Align technical systems with economic outcomes.
+* Preserve structural clarity across the entire stack.
 
-Mechanics without reasoning is structural failure.
-
----
-
-# III. Single-Idea Law
-
-Each topic contains exactly one irreducible idea.
-
-If two independent ideas appear → split.
-If abstraction layers stack → simplify.
-If scope expands → defer to next topic.
-
-Containment is mandatory.
+Every topic must improve **decision quality under uncertainty**.
 
 ---
 
-# IV. Structural Triad
+# II. Article Principle — Reasoning Integrity
 
-Each idea must exist in three synchronized forms:
+*(Cassie Kozyrkov style + First Principles | ~350–400 words)*
 
-1. **Article** — reasoning clarity
-2. **Visual Note** — memory structure
-3. **YouTube Short** — spoken reinforcement
+Each right page article must:
 
-All three must express the same idea.
-No expansion across formats.
+1. Start from first principles (define the underlying reality).
+2. Trace causal mechanisms step-by-step.
+3. Avoid tool-specific or vendor framing.
+4. Emphasize uncertainty and probabilistic thinking where relevant.
+5. Anchor the concept to economic value creation.
+6. Include one structural misalignment warning (especially for strategic or capstone topics).
+7. Avoid redundancy or conceptual duplication.
+8. End with a clean bridge forward to the next topic.
 
----
+Tone requirements:
 
-# V. Article Principle (Reasoning Integrity)
-
-The article must:
-
-* Use first-principles reasoning
-* Follow Cassie Kozyrkov–style clarity and discipline
-* Begin from definitional grounding
-* Surface assumptions explicitly
-* Distinguish decision quality from outcome quality
-* Frame uncertainty and tradeoffs structurally
-* Maintain calm, rational authority
-* Avoid hype, metaphorical drama, or jargon
-
-Length constraint: **~350–390 words (target ≈370).**
-
-Structure must:
-
-1. Introduce tension or misconception
-2. Clarify concept from first principles
-3. Show practical implication under uncertainty
-4. Bridge naturally to next constraint
-
-If it persuades instead of clarifies → rewrite.
-If it performs instead of reasons → rewrite.
+* Calm, analytical, lightly provocative.
+* Precise, not verbose.
+* Exposes weak assumptions.
+* Focused on how value actually forms.
 
 ---
 
-# VI. Visual Principle (Memory Architecture)
+# III. Visual Principle — Memory Architecture
 
-The visual note must:
+*(Karina-style clarity | One icon per section | Cue discipline enforced)*
 
-* Follow Karina Viola Stolz–style structural minimalism
-* Contain exactly **7–8 sections**
-* Progress logically (staircase, not list)
-* Be drawable in under 7 minutes
-* Externalize structure, not explanation
+Each left page visual note must:
 
-Each section must contain:
+### Structure
 
-* **One explicit, relevant, concept-aligned icon suggestion**
-* One section header
-* **2–4 minimal conceptual bullets**
-* **Cue phrase with every bullet (in brackets)** — clarifying only, no new idea
+* 7–8 sections (only exceed if structurally necessary).
+* Exactly one explicit icon suggestion per section.
+* Clean logical stacking (no random ordering).
+* No paragraphs.
+* No decorative filler.
 
-Icon rules:
+### Bullet Rules (Strict Enforcement)
 
-* One icon per section
-* Icon must represent structural meaning
-* Icon must be intuitive and drawable
-* No decorative symbolism
+* Every bullet must include a bracketed mechanism cue.
+* Cues must clarify function, tradeoff, or causal impact.
+* No bullet without a cue.
+* No vague cues (e.g., “important”).
 
-Bullets = conceptual handles only.
-Cues = slight clarification only.
-No explanatory sentences inside visual.
+### Tagline Rule
 
-If density increases → simplify.
-If explanation enters visual → compress.
+* Must capture the core decision-level tension.
+* Must be presentation-ready.
+* Must not be generic.
+* For capstone topics: must reflect systems-level emergence.
 
 ---
 
-# VII. Crux Law
+# IV. Visual Crux Rule (Non-Negotiable)
 
-Every topic must reduce to **one sentence**.
+Each visual note must contain a **single governing idea**.
+
+Everything must compress into one core sentence.
+
+If the entire note cannot be summarized into one decision-level insight, it violates the framework.
 
 The crux must:
 
-* Capture the entire idea
-* Connect previous and next topic
-* Function as slide headline
-* Function as narration opener
-
-If it cannot compress into one sentence, the idea is unclear.
+* Be defensible.
+* Be economic or structural in nature.
+* Clarify value formation.
 
 ---
 
-# VIII. YouTube Reinforcement Law
+# V. Strategic Topic Rules (Part VIII Governance)
 
-The short must:
+For strategy, ROI, or capital allocation topics:
 
-* Use medium-length natural spoken sentences
-* Sound conversational, not academic
-* Introduce no new idea
-* Reinforce the same conceptual boundary
-
-Over-fragmentation or over-complexity = violation.
-
----
-
-# IX. Language Guardrail
-
-Clarity over cleverness.
-Precision over performance.
-
-No buzzwords without definition.
-No dramatic metaphors.
-No academic inflation.
-No intellectual noise.
+1. Must frame the issue as a capital allocation decision.
+2. Must define the core duality explicitly.
+3. Must explain how each path compounds value over time.
+4. Must identify where long-term leverage forms.
+5. Must connect back to measurable economic impact.
 
 ---
 
-# X. Drift Control Mechanism
+# VI. Capstone Rule (Synthesis Topics)
 
-Activation phrase:
+For integrated system views:
 
-> **Apply Master Framework v3 strictly.**
-
-Upon activation:
-
-* Single-idea validation
-* Cassie-style first-principles validation
-* Karina-style visual validation
-* Structural triad validation
-* Density validation
-* Cross-format integrity validation
-
-If any fails → rewrite before delivery.
+1. Must trace the full causal chain (end-to-end).
+2. Must show how layers constrain one another.
+3. Must include one systemic failure warning.
+4. Must reinforce economic purpose explicitly.
+5. Tagline must reflect architectural/system-level emergence.
 
 ---
 
-# XI. Integrity Test
+# VII. Consistency Protocol (Anti-Drift Enforcement)
 
-Before publishing any topic, confirm:
+Before finalizing any topic:
 
-1. Exactly one idea?
-2. First-principles clarity with Cassie discipline?
-3. Visual follows Karina structure with one icon per section and cue per bullet?
-4. Crux fully contains the idea?
-5. All three formats aligned?
-6. No density creep?
+* Is the core tension explicit?
+* Is the mechanism traced?
+* Is value formation clear?
+* Is there redundancy?
+* Does the tagline reflect the decision layer?
+* Does every bullet contain a valid cue?
+* Is the bridge forward clean?
 
-If any answer is no → revise.
-
----
-
-# Governing Standard
-
-This is not a checklist.
-It is a compression discipline.
-
-If output feels inflated, layered, clever, or heavy — it violates the constitution.
+If any answer is “no” → refine.
 
 ---
 
-**Master Framework v3 (First-Principles Constitution, Refined) — Locked.**
+# VIII. YouTube Short Rule
+
+* ~60 seconds.
+* Medium-length conversational sentences.
+* No hype.
+* No buzzwords.
+* Must reinforce the core crux.
+* Must end with a clean bridge forward.
+
+---
+
+# IX. System Identity
+
+The notebook is not about:
+
+* Dashboards.
+* Models.
+* Tools.
+* Frameworks for their own sake.
+
+It is about:
+
+**Designing systems that improve decisions under uncertainty and compound economic value.**
+
+---
+
+This is now the active, stored, and governing version.
+
+Drift tolerance: minimal.
