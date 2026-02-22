@@ -1,6 +1,7 @@
-Complying strictly with **Master Framework v3 (Feb 2026)**
-Single governing idea: **Data is a structured representation of reality, and representation always introduces distortion.**
-7–8 visual sections. No scope expansion. Clean bridge from Part A.
+Complying strictly with **Master Framework v3.2 (Feb 2026)**
+Single governing idea: **Decision quality is the true unit of value under uncertainty.**
+Mechanism-traced. 7–8 visual sections only. No scope expansion. Medium-length YouTube sentences.
+Intellectual sharpness preserved.
 
 ---
 
@@ -8,30 +9,36 @@ Single governing idea: **Data is a structured representation of reality, and rep
 
 ## Part 2 — From Reality to Data
 
-In Part 1, we established that value is created through decisions made under uncertainty.
-But decisions do not operate on reality directly. They operate on representations.
+Before data can improve decisions, reality must be abstracted.
 
-Data is not reality. It is a structured abstraction of it.
+Data is not reality. It is a structured compression of reality. Compression always removes detail. What is removed determines what can no longer be seen.
 
-Reality unfolds through events over time. Something changes, and that change has sequence and duration. When we model events and states without temporal clarity, we lose causality. Time is not a column; it is structure.
+Reality unfolds through events over time. Events change states. States describe conditions at a moment. Without time, causality collapses. Without state transitions, behavior cannot be explained. Most modeling errors begin by flattening time.
 
-Next, we define entities, attributes, and relationships. We decide what exists, what properties matter, and how objects connect. These choices determine what becomes measurable and what remains invisible. Modeling is selective attention made permanent.
+Entities are the objects of interest. Attributes describe them. Relationships connect them. Together, they form structure. Structure determines what questions are even possible. If relationships are missing, inference becomes distorted.
 
-Reality itself is partly structured and partly unstructured. Tables impose order but compress nuance. Text, images, and logs preserve richness but reduce consistency. Every representation makes a tradeoff between clarity and flexibility.
+Reality is partly structured and partly unstructured. Transactions fit tables. Conversations do not. Images, language, and human behavior resist clean discretization. Forcing structure too early introduces artificial clarity.
 
-Identifiers and keys anchor meaning across systems. Without stable identity, integration fragments. When identity shifts, analysis silently corrupts.
+Identifiers create continuity. A key links records across time and systems. Without stable identifiers, entities fragment. Fragmentation destroys longitudinal understanding. Decisions then operate on partial truth.
 
-Data models—relational, document, or graph—encode assumptions about structure and interaction. Schema and constraints formalize business rules directly into storage. They enforce consistency, but they also restrict what can be expressed.
+Data models formalize assumptions. Relational models prioritize consistency. Document models prioritize flexibility. Graph models prioritize relationships. Each encodes a theory about what matters. Choosing a model is choosing a lens.
 
-Even when structure is sound, quality can fail. Duplication, drift, latency, and incompleteness distort interpretation. Bias and measurement error add another layer of deviation. What gets measured often reflects tooling and incentives more than ground truth.
+Schemas and constraints embed business rules. They prevent invalid states from existing. This is not a technical detail. It is governance encoded in structure. Weak constraints allow silent drift between representation and reality.
 
-Systems of record prioritize correctness and durability. Systems of insight prioritize aggregation and interpretation. Confusing the two leads to governance instability.
+Data quality failures rarely announce themselves. They manifest as duplicates, stale values, inconsistent units, delayed updates, and hidden transformations. Poor data does not look wrong. It simply misleads gradually.
 
-The sharper reality is this: sometimes data does not represent reality at all. Definitions drift. Instrumentation fails. Incentives distort reporting. When abstraction detaches from the world it was meant to model, optimization becomes dangerous.
+Bias enters at measurement. What is recorded reflects incentives, tools, and context. Missingness is not random; it is patterned. Measurement error compounds when treated as signal. Decisions then amplify distortion.
 
-If decision quality defines value, then representation quality defines decision quality.
+Systems of record prioritize accuracy and durability. Systems of insight prioritize analysis and speed. Confusing the two creates instability. Analytical experimentation should not corrupt operational truth.
 
-Before building models, we must examine the fidelity of the map itself.
+The sharpest failure occurs when data stops representing reality altogether. Metrics persist. Dashboards glow. Models update. But the underlying behavior has shifted. When representation lags reality, decision quality collapses quietly.
+
+Data does not improve decisions by existing.
+It improves decisions only when its structure faithfully encodes the mechanisms that drive outcomes.
+
+If representation determines what can be known, then the next question becomes structural:
+
+How does this encoded information move reliably through systems without distortion?
 
 ---
 
@@ -39,98 +46,123 @@ Before building models, we must examine the fidelity of the map itself.
 
 ## From Reality to Data
 
-*Representation shapes judgment*
+**Abstraction shapes what decisions can see.**
 
 ---
 
-### ⏳ Events & Time
+### ⏳ Events, States & Time
 
-* Events (state change)
-* States (moment condition)
-* Temporal order (causal sequence)
+**Icon:** ⏳ Hourglass
 
----
-
-### 🧩 Entities & Relationships
-
-* Entities (modeled objects)
-* Attributes (measured properties)
-* Relationships (structural linkage)
+* State transitions (change mechanism)
+* Temporal ordering (causal direction)
+* Snapshot bias (time compression risk)
 
 ---
 
-### 📄 Structured vs Unstructured
+### 🧱 Entities, Attributes & Relationships
 
-* Tables (schema-bound clarity)
-* Text & media (context richness)
-* Tradeoff tension (order vs nuance)
+**Icon:** 🧱 Blocks
 
----
-
-### 🔑 Identity & Meaning
-
-* Unique identifiers (entity continuity)
-* Keys (system linkage)
-* Semantic stability (consistent definition)
+* Object definition (decision unit)
+* Property encoding (feature visibility)
+* Relationship structure (interaction logic)
 
 ---
 
-### 🏗️ Data Models
+### 📂 Structured vs Unstructured
 
-* Relational (structured constraints)
-* Document (flexible hierarchy)
-* Graph (relationship emphasis)
+**Icon:** 📂 Folder
+
+* Tabular compression (clarity gain)
+* Context loss (oversimplification risk)
+* Forced discretization (false precision)
 
 ---
 
-### 🧱 Schema & Rules
+### 🔑 Identifiers & Meaning
 
-* Structural constraints (validation logic)
-* Business encoding (rule enforcement)
-* Flexibility tradeoff (control limits)
+**Icon:** 🔑 Key
+
+* Entity continuity (longitudinal link)
+* Fragmentation risk (identity break)
+* Semantic consistency (definition stability)
+
+---
+
+### 🗂 Data Models as Lenses
+
+**Icon:** 🗂 File Dividers
+
+* Relational consistency (constraint strength)
+* Document flexibility (schema agility)
+* Graph connectivity (network insight)
+
+---
+
+### 📏 Schema & Constraints
+
+**Icon:** 📏 Ruler
+
+* Valid state enforcement (rule encoding)
+* Drift prevention (structural guardrail)
+* Governance in design (embedded control)
 
 ---
 
 ### ⚠️ Data Quality & Bias
 
-* Duplication & drift (structural decay)
-* Missingness (information gaps)
-* Measurement error (distorted signal)
+**Icon:** ⚠️ Warning Sign
+
+* Duplicate & stale data (integrity erosion)
+* Missingness pattern (selection bias)
+* Measurement error (signal distortion)
 
 ---
 
-### 📚 Record vs Insight Systems
+### 🏛 Systems of Record vs Insight
 
-* Systems of record (durability focus)
-* Systems of insight (analytical focus)
-* Representation gap (integration risk)
+**Icon:** 🏛 Building
+
+* Operational truth (durability priority)
+* Analytical flexibility (speed tradeoff)
+* Role confusion (stability risk)
+
+---
+
+### 🪞 Representation Failure
+
+**Icon:** 🪞 Mirror
+
+* Reality drift (environment shift)
+* Metric persistence (illusion stability)
+* Decision misalignment (value collapse)
 
 ---
 
 # YOUTUBE SHORT — REINFORCEMENT
 
-In Part 1, we said decisions create value.
-But decisions never touch reality directly. They rely on data.
+Data is not reality.
+It is a compressed version of reality.
 
-Data is a structured representation of the world.
-And every representation simplifies.
+Events change states over time.
+If you remove time, you remove causality.
 
-Reality unfolds through events over time.
-If you ignore time, you lose causality.
+Entities, attributes, and relationships define structure.
+If structure is wrong, inference is wrong.
 
-When you define entities and attributes, you decide what becomes visible.
-What you do not model becomes invisible to the system.
+Identifiers create continuity.
+Without them, truth fragments.
 
-Tables bring order, but they compress nuance.
-Unstructured data preserves context, but reduces consistency.
+Data models are not neutral.
+They encode assumptions about what matters.
 
-Identifiers hold meaning together.
-If identity breaks, analysis silently degrades.
+Bias enters at measurement.
+Missing data is rarely random.
 
-Even well-designed systems suffer from drift, duplication, and bias.
-And sometimes the data no longer reflects reality at all.
+And the most dangerous failure?
+When dashboards look healthy but reality has shifted.
 
-If the map is distorted, optimization becomes dangerous.
-
-Before improving decisions,
-make sure the representation is faithful enough to trust.
+Abstraction determines visibility.
+Visibility determines judgment.
+Judgment determines value.
