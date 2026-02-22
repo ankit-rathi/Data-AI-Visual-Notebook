@@ -1,6 +1,6 @@
-Complying strictly with **Master Framework v3 (Feb 2026)**
+Complying strictly with **Master Framework v3.2 (Feb 2026)**
 Single governing idea: **Decision quality is the true unit of value under uncertainty.**
-7–8 visual sections. No scope expansion. Medium-length YouTube sentences.
+Mechanism-traced. No scope expansion. Medium-length YouTube sentences. Clear economic framing.
 
 ---
 
@@ -8,30 +8,33 @@ Single governing idea: **Decision quality is the true unit of value under uncert
 
 ## Part A — Decisions, Uncertainty & Value
 
-Organizations say they value data.
-What they actually depend on is decisions.
+Organizations claim to invest in data.
+What they actually monetize is decision quality.
 
-A decision is not a report or a model output. It is a commitment to action when the future is uncertain. If uncertainty did not exist, decisions would not matter. We would simply execute what is known.
+A decision is a capital allocation under uncertainty. It commits resources — money, time, attention, reputation — toward a probabilistic future. If the future were certain, there would be execution, not judgment. Decision-making exists because uncertainty exists.
 
-Uncertainty introduces risk. Risk is the possibility that outcomes differ from expectations in ways that create loss. Because outcomes are probabilistic, rational systems must think in expected value terms. The question is not “Will this work?” but “Given probabilities and consequences, does this improve long-term value?”
+Uncertainty creates variance. Variance creates risk. Risk creates asymmetric outcomes — some beneficial, some destructive. Rational systems therefore operate on expected value, not intuition. The economically relevant question is not “Will this succeed?” but “Does this improve long-term expected value given probabilities and consequences?”
 
-Most systems ignore this discipline. They optimize metrics instead of decisions. Metrics are proxies for reality. When treated as targets, they reshape behavior. The organization begins optimizing the number rather than the underlying value.
+Most organizations drift from this principle. They optimize dashboards instead of decisions. Metrics are abstractions of reality. When converted into targets, they reshape incentives. Once incentives shift, behavior follows. When behavior shifts, the metric detaches from underlying value. This is how measurement quietly corrupts judgment.
 
-Signal competes with noise. Data accumulates, opinions multiply, and incentives distort interpretation. Without structure, more information increases confusion rather than clarity.
+Information alone does not solve this problem. As data volume increases, signal competes with noise. Cognitive bandwidth remains limited. Incentives bias interpretation. Without disciplined filtering, more data amplifies confusion rather than clarity.
 
-Correlation intensifies the problem. Patterns appear persuasive, yet without causal understanding they create fragile confidence. Prediction can reduce uncertainty about what may happen, but explanation clarifies why it happens. Confusing the two leads to overtrust.
+Correlation intensifies fragility. Statistical association can improve prediction, but prediction without mechanism creates brittle confidence. When the environment shifts, correlation breaks. Causal understanding provides structural resilience because it explains why patterns persist — or when they should fail.
 
-Every decision involves tradeoffs. Speed competes with rigor. Accuracy competes with interpretability. Flexibility competes with control. There is no perfect system, only constrained choices.
+Every decision embeds tradeoffs. Speed increases responsiveness but reduces deliberation. Accuracy can reduce error but increase latency. Interpretability increases trust but may reduce optimization. Governance increases stability but reduces flexibility. There is no perfect system, only constrained optimization under competing objectives.
 
-Decision quality must also be separated from outcome quality. A sound process can produce an unfavorable result in a stochastic world. If organizations judge only outcomes, they reward luck and punish discipline.
+Decision quality must be evaluated independently of outcomes. In stochastic environments, even optimal processes generate losses. If organizations judge only results, they reward luck and penalize discipline. Over time, this selects for volatility instead of robustness.
 
-The final requirement is feedback. Without visible feedback loops, error compounds silently. With feedback, uncertainty becomes a source of learning rather than instability.
+Feedback loops determine whether uncertainty compounds error or compounds learning. Without visible feedback, misalignment persists silently. With structured feedback, error becomes information. Systems that learn improve decision quality. Systems that do not stagnate or collapse.
 
-Value is not created by data itself.
-It is created by improving the quality of decisions made under uncertainty.
+Data does not create value.
+Models do not create value.
 
-If decision quality defines value, then the next question becomes unavoidable:
-What determines the quality of the information those decisions rely on?
+Value emerges when information measurably improves the quality of resource allocation under uncertainty.
+
+If decision quality is the economic unit of value, then the next structural question becomes inevitable:
+
+What determines whether the information entering a decision is reliable, timely, and aligned with reality?
 
 ---
 
@@ -39,96 +42,112 @@ What determines the quality of the information those decisions rely on?
 
 ## Decisions, Uncertainty & Value
 
-*Value follows disciplined judgment*
+**Decision quality compounds. Noise compounds faster.**
 
 ---
 
-### 🎯 Decision
+### 🎯 Decision as Allocation
 
-* Action commitment (irreversible cost)
-* Future-oriented choice (uncertain outcome)
-* Consequence-bearing move (value impact)
+**Icon:** 🎯 Target
+
+* Resource commitment (capital exposure)
+* Irreversibility gradient (switching cost)
+* Expected value shift (economic impact)
 
 ---
 
 ### 🎲 Uncertainty & Risk
 
-* Probabilistic future (not deterministic)
-* Loss possibility (downside exposure)
-* Expected value lens (long-term logic)
+**Icon:** 🎲 Dice
+
+* Probabilistic futures (variance driver)
+* Downside asymmetry (loss distribution)
+* EV discipline (long-term optimization)
 
 ---
 
 ### 📡 Signal vs Noise
 
-* Informational clarity (true pattern)
-* Organizational distortion (incentive bias)
-* Attention scarcity (limited cognition)
+**Icon:** 📡 Signal Tower
+
+* True pattern extraction (informational edge)
+* Incentive distortion (organizational bias)
+* Cognitive limits (attention constraint)
 
 ---
 
-### 📊 Metrics vs Reality
+### 📊 Metrics as Abstractions
 
-* Proxy measures (imperfect representation)
-* Target effects (behavior shift)
-* Map vs territory (abstraction gap)
+**Icon:** 📊 Bar Chart
 
----
-
-### 🔍 Correlation vs Causation
-
-* Statistical association (co-movement)
-* Mechanism requirement (causal driver)
-* False confidence risk (overinterpretation)
+* Proxy representation (map vs reality)
+* Target reshaping behavior (incentive effect)
+* Measurement drift (value detachment)
 
 ---
 
-### ⚖️ Tradeoffs
+### 🔍 Correlation vs Mechanism
 
-* Speed vs rigor (decision latency)
-* Accuracy vs interpretability (model tension)
+**Icon:** 🔍 Magnifying Glass
+
+* Statistical co-movement (surface pattern)
+* Causal structure (persistence driver)
+* Regime fragility (break risk)
+
+---
+
+### ⚖️ Structural Tradeoffs
+
+**Icon:** ⚖️ Scales
+
+* Speed vs rigor (latency tradeoff)
+* Accuracy vs interpretability (trust tension)
 * Flexibility vs control (governance balance)
 
 ---
 
 ### 🎲 Process vs Outcome
 
-* Process quality (decision discipline)
-* Outcome variability (stochastic world)
-* Hindsight bias (result illusion)
+**Icon:** 🧪 Test Tube
+
+* Decision discipline (quality input)
+* Outcome variance (stochastic world)
+* Luck contamination (evaluation error)
 
 ---
 
-### 🔁 Feedback Loops
+### 🔁 Feedback as Learning Engine
+
+**Icon:** 🔁 Loop Arrow
 
 * Error visibility (correction signal)
-* Learning cycle (continuous refinement)
-* System adaptation (evolution over time)
+* Adaptive adjustment (system evolution)
+* Compounding improvement (quality growth)
 
 ---
 
 # YOUTUBE SHORT — REINFORCEMENT
 
-Most companies believe they are data-driven.
+Companies say they are data-driven.
 But data does not create value. Decisions do.
 
-A decision is a commitment made under uncertainty.
+A decision is a capital allocation under uncertainty.
 If the future were certain, there would be nothing to decide.
 
-Because outcomes are probabilistic, we must think in expected value terms.
-The real question is whether an action improves long-term value, not whether it feels safe today.
+Because outcomes are probabilistic, rational systems think in expected value terms.
+The question is not “Will this work?” but “Does this improve long-term value?”
 
-Metrics often replace judgment.
-When a metric becomes a target, behavior adapts, and the number stops representing reality.
+Metrics are abstractions.
+When a metric becomes a target, behavior adapts and the signal degrades.
 
-Correlation can look convincing, but without causal understanding it creates fragile confidence.
-Prediction tells us what might happen. Explanation tells us why.
+Correlation can predict.
+Only mechanism provides durability.
 
-Every decision involves tradeoffs.
-There is no perfect system, only constrained choices.
+Every decision embeds tradeoffs.
+There is no perfect system — only constrained optimization.
 
-And a good decision can still lead to a bad outcome.
-If you reward only results, you end up rewarding luck.
+And a good process can still produce a bad outcome.
+If you reward only results, you reward luck.
 
-Decision quality is the true unit of value.
-If you improve that, performance follows.
+Decision quality is the true unit of value under uncertainty.
+Improve that — and performance compounds.
