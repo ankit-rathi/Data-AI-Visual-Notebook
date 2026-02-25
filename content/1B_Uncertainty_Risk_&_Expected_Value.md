@@ -1,3 +1,13 @@
+## **B. Uncertainty, Risk & Expected Value**
+
+**Why:** Outcomes are inherently uncertain, and ignoring this leads to surprises and losses.
+
+**What:** Risk is the **variance of potential outcomes**; expected value (EV) is the **probability-weighted payoff**. Rational systems optimize EV, not just chance of success.
+
+**How:** Decision frameworks calculate EV to prioritize actions that maximize long-term benefit while considering uncertainty.
+
+---
+
 From first principles, the future is not deterministic. Every meaningful decision — lending money, launching a product, investing capital — involves multiple possible outcomes. Uncertainty is not a flaw in the system; it is a structural property of reality. Problems arise when decision-makers treat uncertain outcomes as if they were guaranteed.
 
 Risk, at its core, is dispersion. It is the range and variability of possible outcomes around an average. Two projects may have the same average return, but one may fluctuate wildly while the other is stable. The variance matters because extreme negative outcomes can impair capital, reputation, or survival.
