@@ -1,3 +1,34 @@
+## E. Scaling Data Products
+
+### Why
+
+A successful pilot often fails when scaled across the organization.
+
+Local optimization ≠ enterprise robustness.
+
+### What
+
+Scaling means:
+
+* Standardization
+* Reusability
+* Infrastructure maturity
+* Documentation
+* Ownership clarity
+
+### How
+
+* Product mindset (roadmap, versioning, lifecycle)
+* Modular architecture
+* Clear API contracts
+* Dedicated ownership
+
+Treat data systems as products — not projects.
+
+Projects end. Products evolve.
+
+---
+
 From first principles, a pilot succeeds because it operates in a controlled, limited environment. Assumptions are narrow, stakeholders are aligned, and edge cases are few. When that same solution is extended across an enterprise, variability increases — more users, more data sources, more failure modes. What worked locally often breaks under broader complexity.
 
 The core mistake is confusing local optimization with system robustness. A data model built for one business unit may rely on manually cleaned data, undocumented logic, or implicit domain knowledge. It performs well in a contained context but collapses when exposed to different inputs or operational constraints. Scaling exposes hidden fragility.
