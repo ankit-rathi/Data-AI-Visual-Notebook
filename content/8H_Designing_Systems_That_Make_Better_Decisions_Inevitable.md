@@ -1,3 +1,41 @@
+## H. Designing Systems That Make Better Decisions Inevitable
+
+This is the highest level.
+
+### Why
+
+Human decision-making is biased, political, and inconsistent.
+
+Good systems reduce reliance on hero intelligence.
+
+### What
+
+A well-designed decision system:
+
+* Surfaces relevant data automatically
+* Frames choices clearly
+* Applies guardrails
+* Logs outcomes
+* Feeds learning back into the system
+
+It nudges toward rational behavior.
+
+### How
+
+1. Make high-quality data the default input
+2. Remove subjective overrides unless justified
+3. Automate low-risk decisions
+4. Track decisions and outcomes
+5. Continuously refine rules based on evidence
+
+The goal is not perfect prediction.
+
+The goal is:
+
+> Structurally reducing bad decisions.
+
+---
+
 From first principles, organizations are collections of human decisions made under uncertainty. Humans are bounded by limited information, cognitive bias, incentives, fatigue, and politics. Expecting consistently rational outcomes from individual judgment alone is unrealistic. Therefore, durable performance requires designing systems that constrain error and guide behavior.
 
 A decision system is the structure within which choices are made. If relevant data is hard to access, decisions default to intuition. If incentives reward short-term wins, risk-taking increases. If outcomes are not tracked, learning stalls. In this sense, poor decisions are often system failures, not individual failures.
