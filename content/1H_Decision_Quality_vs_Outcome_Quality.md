@@ -1,3 +1,13 @@
+## **H. Decision Quality vs Outcome Quality**
+
+**Why:** Good outcomes can occur by luck; bad outcomes can occur despite good decisions. Confusing the two misguides learning.
+
+**What:** Decision quality is **process integrity under uncertainty**; outcome quality is **resultant success**.
+
+**How:** Evaluate systems by **decision process**, not just outcomes. Maintain feedback loops to improve repeatable decision quality.
+
+---
+
 From first principles, decisions are made under uncertainty. Outcomes are influenced not only by the quality of reasoning, but also by randomness and external factors beyond control. Therefore, outcome quality (what happened) is not a reliable indicator of decision quality (how the decision was made).
 
 A good decision is one that uses the best available information, applies sound reasoning, weighs probabilities correctly, and aligns with long-term objectives. It optimizes expected value given known constraints. A good outcome, by contrast, simply means the result was favorable. The two often correlate over time, but not in individual instances.
