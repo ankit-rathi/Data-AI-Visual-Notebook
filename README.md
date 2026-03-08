@@ -50,6 +50,7 @@ Key idea:
 ```
 More data ≠ better decisions
 ```
+**Organizations are drowning in data but starving for decisions.**
 
 ---
 
@@ -61,7 +62,8 @@ Most organizations stop here:
 Data → Dashboard
 ```
 
-Dashboards inform people but **do not change decisions**.
+**Dashboards inform people, but they rarely change decisions.**
+
 
 ---
 
@@ -76,7 +78,7 @@ Failure patterns:
 
 Introduce the central idea:
 
-**Data creates value only when it improves a decision.**
+**Data initiatives fail when they optimize for insights instead of decisions.**
 
 ---
 
@@ -103,7 +105,7 @@ Topics:
 
 Key principle:
 
-**Data is a record of reality.**
+**Data is not value — it is simply a digital record of business reality.**
 
 ---
 
@@ -120,7 +122,7 @@ Topics:
 
 Key principle:
 
-**Intelligence reduces uncertainty.**
+**Analytics and AI convert raw data into predictions and understanding.**
 
 ---
 
@@ -137,7 +139,7 @@ Topics:
 
 Key principle:
 
-**Decisions convert knowledge into choice.**
+**Business value starts the moment intelligence influences a decision.**
 
 ---
 
@@ -154,7 +156,7 @@ Examples:
 
 Key principle:
 
-**No action → no value.**
+**Decisions create value only when they trigger real-world actions.**
 
 ---
 
@@ -170,7 +172,7 @@ Cost
 Risk
 ```
 
-Explain **decision economics**.
+**Every data-driven decision ultimately impacts revenue, cost, or risk.**
 
 ---
 
@@ -193,7 +195,7 @@ Topics:
 
 Key principle:
 
-**Platforms enable scale.**
+**Data platforms exist to reliably move and scale data for intelligence creation.**
 
 ---
 
@@ -211,7 +213,7 @@ Topics:
 
 Key principle:
 
-**No trust → no decisions.**
+**No matter how advanced the analytics, decisions will not rely on data that isn’t trusted.**
 
 ---
 
@@ -228,7 +230,7 @@ Topics:
 
 Key principle:
 
-**You cannot improve what you cannot observe.**
+**A data system that cannot be observed cannot be trusted or improved.**
 
 ---
 
@@ -237,8 +239,6 @@ Key principle:
 This is where your book becomes **unique**.
 
 Most books stop at ML.
-
-You go further into **decision architecture**.
 
 ---
 
@@ -255,6 +255,7 @@ Business rules
 Optimization
 Action
 ```
+**The real goal of analytics is not insight generation but decision system design.**
 
 ---
 
@@ -268,6 +269,8 @@ Topics:
 * human-in-the-loop AI
 * automation boundaries
 
+**The most powerful systems combine human judgment with machine intelligence.**
+
 ---
 
 ### Chapter 14 — Decision Velocity
@@ -280,6 +283,8 @@ Topics:
 * operational analytics
 * event-driven architectures
 
+**Competitive advantage increasingly comes from making better decisions faster.**
+
 ---
 
 ### Chapter 15 — The Learning Loop
@@ -290,7 +295,7 @@ Introduce the **AI flywheel**.
 Decision → Outcome → New Data → Better Intelligence
 ```
 
-Learning systems.
+**Every decision generates new data that improves future intelligence.**
 
 ---
 
@@ -309,7 +314,7 @@ Key idea:
 ```
 Strategic decisions → required intelligence → required data
 ```
-
+**A real data strategy starts with critical business decisions, not data assets.**
 ---
 
 ### Chapter 17 — Operating Model
@@ -323,6 +328,7 @@ Roles:
 * product managers
 * business leaders
 
+**Data value emerges when engineers, analysts, product teams, and leaders align around decisions.**
 ---
 
 ### Chapter 18 — From Data Teams to Decision Teams
@@ -330,6 +336,8 @@ Roles:
 Shift the organizational mindset.
 
 Focus moves from **analysis → decision impact**.
+
+**The mission of data teams should evolve from delivering analysis to improving decisions.**
 
 ---
 
@@ -344,12 +352,14 @@ Revenue
 Cost
 Risk
 ```
-
+**If a data initiative cannot be linked to revenue, cost, or risk, its value is unclear.**
 ---
 
 ### Chapter 20 — The Future: AI-Native Organizations
 
 Organizations designed around **decision systems**.
+
+**The most successful organizations will operate as continuous learning decision systems.**
 
 ---
 
@@ -366,6 +376,7 @@ Data → Intelligence → Decision → Action → Business Value
 ```
 
 Explain how this becomes the **operating system of modern organizations**.
+**Modern organizations win not by collecting more data but by building better decision engines.**
 
 ---
 
@@ -374,6 +385,9 @@ Explain how this becomes the **operating system of modern organizations**.
 This should appear repeatedly:
 
 > **The purpose of data systems is not to generate insights — it is to improve decisions.**
+
+**“Data does not create value.
+Better decisions create value.”**
 
 ---
 
