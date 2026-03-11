@@ -140,7 +140,7 @@ Mapping to the diagram:
 
 **Transition to the Next Chapter**
 
-While the Decision Intelligence Loop explains how organizations convert observations into decisions and learning, operating this loop requires reliable systems for storing and organizing data. The next chapter explores how data infrastructure enables organizations to manage the information needed for analysis and decision making.
+The Decision Intelligence Loop explains how organizations convert observations into better decisions over time. But the loop begins with something fundamental: an understanding of the environment being observed. The next chapter explores how organizations model reality so that it can be measured and represented as data.
 
 ---
 
