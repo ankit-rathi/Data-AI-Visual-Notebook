@@ -123,7 +123,7 @@ Mapping to the diagram:
 
 **Transition to the Next Chapter**
 
-Once organizations begin capturing large volumes of observations as data, the next challenge is managing that data reliably. The following chapter explores how data infrastructure allows organizations to store, organize, and access the information needed for analysis and decision making.
+Once observations are captured as data, the challenge shifts from simply collecting information to using it effectively. Organizations must transform raw data into insights that guide decisions and actions. The next chapter introduces the Decision Intelligence Loop—the system that connects data, intelligence, decisions, and learning.
 
 ---
 
