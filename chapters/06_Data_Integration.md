@@ -151,7 +151,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Integrating Customer Data Across Systems
+## Example — Integrating Customer Data Across Systems
 
 Consider how an online retailer integrates customer data from multiple systems.
 
@@ -203,7 +203,7 @@ Without integration, each system would provide only a partial view of customer a
 
 ---
 
-## Final Section — Seeing the Organization as an Interconnected System
+## Seeing the Organization as an Interconnected System
 
 * Organizations generate data across many independent systems, each capturing a limited perspective.
 * Data integration connects these partial observations into unified datasets that reveal relationships across processes.
