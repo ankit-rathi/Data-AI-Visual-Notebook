@@ -186,7 +186,9 @@ Through this process, predictive intelligence becomes operational value by guidi
 * By defining decision points, comparing alternatives, and establishing thresholds, organizations ensure that predictions consistently influence actions.
 * Effective decision design therefore transforms predictive models into **practical decision systems that shape real-world outcomes**.
 
-The next chapter explores how these decisions trigger **actions within operational systems**, completing the transition from intelligence to real-world intervention.
+**Transition to the Next Chapter**
+
+Designing decisions clarifies what choices must be made and how intelligence can support them. However, these decision processes must ultimately operate within real systems that execute actions. The next chapter examines operational decision systems that embed intelligence directly into business operations.
 
 ---
 
