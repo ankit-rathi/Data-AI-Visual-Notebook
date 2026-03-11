@@ -150,7 +150,7 @@ Design suggestions:
 
 ---
 
-## Example Section — Capturing User Behavior in a Digital Product
+## Example — Capturing User Behavior in a Digital Product
 
 Consider how a streaming platform captures data about user behavior.
 
