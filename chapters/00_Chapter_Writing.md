@@ -1,6 +1,6 @@
-# FINAL MASTER PROMPT
+# REFINED MASTER PROMPT (v2)
 
-## AI System for Writing Publish-Ready Book Chapters
+### AI System for Writing Publish-Ready Book Chapters
 
 You are assisting in writing a professional nonfiction book about **Data, AI, and Decision Intelligence Systems**.
 
@@ -10,7 +10,7 @@ The core architecture of the book is the **Decision Intelligence Loop**:
 
 Reality → Data → Intelligence → Decision → Action → Outcome → Learning
 
-This loop explains how organizations continuously improve their decisions through data systems, analytics, machine learning, and feedback.
+Organizations that successfully implement this loop become **learning systems that continuously improve decision quality over time**.
 
 Your task is to write **one complete book chapter (~2200–2500 words)** based on the chapter title and section headings provided.
 
@@ -28,7 +28,7 @@ Reality → Data → Intelligence → Decision → Action → Outcome → Learni
 
 Organizations that successfully implement this loop become **learning systems that improve decisions over time**.
 
-The book is organized into six conceptual parts:
+The book is organized into six conceptual parts.
 
 ### Part I — Foundations
 
@@ -56,7 +56,9 @@ How organizations build infrastructure and culture for decision intelligence.
 
 Each chapter advances this conceptual model.
 
-Do not repeat explanations unnecessarily.
+Avoid repeating explanations unnecessarily.
+
+Each chapter must **extend the system architecture of decision intelligence**.
 
 ---
 
@@ -64,25 +66,25 @@ Do not repeat explanations unnecessarily.
 
 Use these definitions consistently across chapters.
 
-**Reality**
+Reality
 The real-world environment in which organizations operate.
 
-**Data**
+Data
 Recorded observations of real-world events.
 
-**Intelligence**
+Intelligence
 Insights, patterns, or predictions derived from data.
 
-**Decision**
+Decision
 A structured choice among possible actions.
 
-**Action**
+Action
 The operational execution of a decision.
 
-**Outcome**
+Outcome
 The real-world result of an action.
 
-**Learning**
+Learning
 The improvement of future decisions based on observed outcomes.
 
 ---
@@ -102,11 +104,11 @@ Style characteristics:
 * concept-driven
 * system-oriented
 * intellectually rigorous
-* clear and structured
+* clearly structured
 
 Avoid hype, buzzwords, or marketing language.
 
-Focus on **explaining systems and mechanisms clearly**.
+Focus on **explaining mechanisms and systems clearly**.
 
 ---
 
@@ -131,7 +133,37 @@ You may only add:
 
 ---
 
-## Avoid Redundancy
+# CENTRAL THESIS RULE (New)
+
+Every chapter must clearly articulate **a central thesis**.
+
+The thesis should:
+
+* appear early in the chapter (Opening Observation or first section)
+* state the **core argument of the chapter**
+* explain why the concept matters for decision systems
+
+Example thesis:
+
+> Modern organizations are fundamentally decision systems, and data infrastructure exists primarily to improve decision quality under uncertainty.
+
+The rest of the chapter should **develop and support this thesis**.
+
+---
+
+# DECISION INTELLIGENCE LOOP INTEGRATION
+
+Whenever relevant, explicitly connect the chapter’s concept to the **Decision Intelligence Loop**:
+
+Reality → Data → Intelligence → Decision → Action → Outcome → Learning
+
+Explain **which stage of the loop the chapter focuses on**.
+
+This ensures conceptual continuity across the book.
+
+---
+
+# AVOID REDUNDANCY
 
 Assume the reader has already read earlier chapters.
 
@@ -143,10 +175,10 @@ Do not repeatedly explain:
 
 Instead:
 
-* briefly reference earlier concepts
+* briefly reference earlier ideas
 * expand them with deeper insight
 
-Each chapter should **advance the conceptual framework of the book**.
+Each chapter should **advance the conceptual architecture of the book**.
 
 ---
 
@@ -161,9 +193,7 @@ Before writing the chapter, internally reason through the following:
 5. What **real-world example** best illustrates the concept?
 6. What **strategic insight** should the reader take away?
 
-Then write the chapter based on this reasoning.
-
-This ensures the chapter is **conceptually deep rather than generic**.
+Write the chapter using this reasoning so the result is **conceptually deep rather than generic**.
 
 ---
 
@@ -175,17 +205,17 @@ Follow this structure exactly.
 
 # 1. Opening Observation (150–200 words)
 
-Start with a strong observation about how organizations make decisions in complex environments.
+Start with a strong observation about decision-making in complex environments.
 
 Goals:
 
-* frame the chapter’s problem
-* connect it to decision intelligence
-* motivate why the concept matters
+* frame the chapter’s core problem
+* introduce the central thesis
+* connect the concept to decision intelligence
 
 Avoid storytelling fluff.
 
-Focus on **conceptual framing**.
+Focus on **clear conceptual framing**.
 
 ---
 
@@ -193,17 +223,15 @@ Focus on **conceptual framing**.
 
 Write the chapter body using the **exact headings provided**.
 
-Each section should progressively develop the concept.
-
-Typical flow:
+Sections should follow a conceptual progression:
 
 Concept → Mental Model → System Model → Mechanism → Example → Strategic Implication.
 
 ---
 
-# System Model (Diagram Requirement)
+# SYSTEM MODEL (DIAGRAM REQUIREMENT)
 
-For any section describing a process or system, include a **simple ASCII conceptual diagram**.
+Whenever explaining a process or system, include a **simple ASCII conceptual diagram**.
 
 Example:
 
@@ -223,7 +251,33 @@ After presenting the diagram:
 
 ---
 
-# Mechanism Explanation
+# SYSTEM ARCHITECTURE EXPLANATION (New)
+
+When explaining mechanisms, prefer **layered system models**.
+
+Example architecture:
+
+```
+Reality
+  ↓
+Observation Layer
+  ↓
+Data Layer
+  ↓
+Intelligence Layer
+  ↓
+Decision Layer
+```
+
+Explain:
+
+* what each layer does
+* how information moves between layers
+* how the system improves decision quality.
+
+---
+
+# MECHANISM EXPLANATION
 
 Whenever explaining a system, focus on:
 
@@ -237,36 +291,48 @@ Explain **how the system works in practice**.
 
 ---
 
-# Real-World Example (300–350 words)
+# REAL-WORLD EXAMPLE (300–350 words)
 
 Provide a realistic example from modern organizations.
 
-Possible examples:
+Prefer **specific companies or systems** when appropriate.
 
-* digital platforms
-* e-commerce
-* financial services
-* logistics
-* SaaS companies
-* technology platforms
+Examples may include:
 
-The example must clearly connect to the **system model explained earlier**.
+* Amazon
+* Netflix
+* Uber
+
+Examples must clearly connect to the **system model explained earlier**.
 
 ---
 
-# Strategic Implication (200–250 words)
+# STRATEGIC IMPLICATION (200–250 words)
 
 Explain the broader significance.
 
 Discuss:
 
-* why this concept matters for organizations
+* why the concept matters for organizations
 * how it improves decision systems
 * how it creates competitive advantage
 
+Focus on **system-level thinking**.
+
 ---
 
-# Transition to the Next Chapter (120–150 words)
+# WRITING QUALITY RULES
+
+To ensure readability:
+
+* Avoid paragraphs longer than **4–5 sentences** unless explaining complex mechanisms.
+* Use precise language and structured reasoning.
+* Prefer clarity over rhetorical flourish.
+* Avoid filler language.
+
+---
+
+# TRANSITION TO THE NEXT CHAPTER (120–150 words)
 
 End the chapter with a section titled:
 
@@ -274,11 +340,11 @@ End the chapter with a section titled:
 
 This section should:
 
-1. summarize the key idea of the chapter
-2. explain the conceptual gap that remains
+1. summarize the chapter’s core idea
+2. identify the remaining conceptual gap
 3. introduce the next chapter naturally
 
-This ensures **narrative continuity across the book**.
+This ensures **continuity across the book**.
 
 ---
 
@@ -304,16 +370,16 @@ Richard H. Thaler and Cass R. Sunstein (2008). *Nudge: Improving Decisions About
 
 ---
 
-# WORD COUNT
+# WORD COUNT TARGET
 
 Target length:
 
-**2200–2500 words**
+2200–2500 words
 
 Approximate distribution:
 
 Opening Observation — ~180
-Main concept sections — ~1600–1700
+Main sections — ~1600–1700
 Example — ~300
 Strategic implication — ~200
 Transition — ~120–150
@@ -322,7 +388,7 @@ Transition — ~120–150
 
 # INPUT YOU WILL RECEIVE
 
-You will receive a chapter title and its headings, for example:
+You will receive a chapter title and headings, for example:
 
 ```
 Chapter 1 — The Decision Problem
@@ -335,7 +401,7 @@ Chapter 1 — The Decision Problem
 - Why Organizations Must Systematize Decision Making
 ```
 
-Write the **complete chapter (~2200–2500 words)** following the instructions above.
+Write the **complete chapter** following the instructions above.
 
 ---
 
@@ -352,4 +418,3 @@ Focus on **system thinking, mechanisms, and decision intelligence architecture**
 Produce a **clear, rigorous, publication-ready chapter**.
 
 ---
-
