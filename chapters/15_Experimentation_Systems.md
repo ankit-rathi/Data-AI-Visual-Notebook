@@ -2,196 +2,95 @@
 
 ---
 
-## Why Observation Alone Is Not Enough for Learning
+# 1. Opening Observation
 
-* Decision systems constantly produce data through their interactions with the environment.
-* Observational data can reveal correlations and patterns in behavior.
-* However, correlation does not necessarily reveal **whether a decision actually caused a particular outcome**.
-* For example:
-
-  * higher engagement may coincide with a product change without being caused by it
-  * revenue growth may occur due to external market conditions rather than internal decisions
-* Without careful evaluation, organizations risk drawing incorrect conclusions from observational data.
-* To understand the true impact of decisions, organizations need methods that **intentionally test alternatives under controlled conditions**.
+* Many digital platforms continuously test alternative product designs, algorithms, and decision strategies.
+* Users interacting with the same application may unknowingly experience slightly different versions of a feature.
+* These variations allow organizations to observe how different decisions affect user behavior.
+* Over time, this systematic testing process reveals which changes improve outcomes.
+* Controlled experimentation has therefore become a core mechanism for learning in modern digital systems.
 
 ---
 
-## Designing Controlled Comparisons in Decision Systems
+# 2. Problem
 
-* Experimentation introduces controlled variation into decision systems in order to evaluate alternative strategies.
-* Instead of applying one decision policy universally, organizations test **multiple alternatives simultaneously**.
-* These alternatives might include:
-
-  * different product designs
-  * pricing strategies
-  * recommendation algorithms
-  * marketing messages
-* Controlled comparisons ensure that each alternative is evaluated under similar conditions.
-* This structure allows organizations to determine **which decisions lead to better outcomes**.
+* Observational data often shows correlations but cannot reliably explain why outcomes change.
+* Multiple factors in complex systems influence user behavior simultaneously.
+* Without controlled comparisons, organizations cannot determine whether a decision actually caused an observed improvement.
+* This uncertainty slows learning and increases the risk of adopting ineffective strategies.
+* Organizations therefore require structured methods for identifying the causal impact of decisions.
 
 ---
 
-## Randomization as the Foundation of Reliable Experiments
+# 3. Core Idea
 
-* Reliable experimentation depends on **random assignment**.
-* Randomization ensures that users or situations are distributed evenly across experimental groups.
-* This process minimizes the influence of external factors such as:
-
-  * user demographics
-  * seasonal trends
-  * behavioral differences between customers
-* By balancing these influences across groups, randomization isolates the effect of the experimental treatment.
-* As a result, differences in outcomes can be attributed with greater confidence to the decision being tested.
-* This approach transforms operational systems into **controlled learning environments**.
+* Controlled experiments measure the causal impact of alternative decisions.
+* By randomly assigning users or events to different variants, organizations isolate the effect of specific changes.
+* Comparing outcomes across these variants reveals which decision produces better results.
+* Experimentation systems therefore enable organizations to learn systematically from operational activity.
 
 ---
 
-## Building Platforms for Continuous Experimentation
+# 4. System Model
 
-* Large organizations often conduct many experiments simultaneously across products and services.
-
-* Managing these experiments requires dedicated **experimentation platforms**.
-
-* These platforms typically automate several processes:
-
-  * assigning users to experimental groups
-  * delivering alternative product experiences
-  * collecting outcome metrics
-  * analyzing results and statistical significance
-
-* By automating these tasks, experimentation systems allow teams to run experiments efficiently and at scale.
-
-* Continuous experimentation enables organizations to **validate ideas quickly and refine strategies through evidence**.
-
----
-
-## Diagram — Conceptual Illustration
-
-```
-Decision Alternatives
-(A vs B)
-        ↓
-Random Assignment
-(Users split into groups)
-        ↓
-Different Experiences
-(Treatment A / Treatment B)
-        ↓
-Observed Outcomes
-(Metrics collected)
-        ↓
-Outcome Comparison
-(Causal impact identified)
+```text
+variant A vs variant B → outcome comparison
 ```
 
-### Explanation
-
-The diagram illustrates how experimentation systems evaluate alternative decisions.
-
-* Two or more **decision alternatives** are proposed.
-* Users are **randomly assigned** to different experimental groups.
-* Each group experiences a different **treatment or decision policy**.
-* The system measures **outcomes using defined metrics**.
-* Outcomes are then compared to determine which decision produced better results.
-
-This process allows organizations to identify the **causal impact of decisions** rather than relying on assumptions or correlations.
+* Two or more **variants** represent alternative decision strategies or product designs.
+* Users or events are randomly assigned to each variant.
+* Each variant produces measurable **outcomes** through user interaction.
+* Comparing outcomes across variants reveals the **causal impact** of the change.
 
 ---
 
-### Guidance for Drawing in PowerPoint
+# 5. Mechanism
 
-Layout:
+* **A/B testing fundamentals**
 
-* Use a **vertical flow structure** that splits into two branches in the middle.
+  * Comparing two decision variants to evaluate differences in performance.
 
-Shapes:
+* **Randomized experiments**
 
-* Rectangles for each stage:
+  * Random assignment ensures groups are statistically comparable.
 
-  * Decision Alternatives
-  * Random Assignment
-  * Treatment A
-  * Treatment B
-  * Outcomes
-  * Outcome Comparison
+* **Causal inference vs correlation**
 
-Structure:
+  * Experiments isolate the effect of the tested change from external factors.
 
-* After **Random Assignment**, split the flow into two parallel boxes representing Treatment A and Treatment B.
-* Rejoin the flows at **Observed Outcomes**.
+* **Experimentation platforms**
 
-Arrows:
+  * Infrastructure manages experiment setup, traffic allocation, and measurement.
 
-* Downward arrows between stages, with branching arrows for the two treatments.
+* **Continuous experimentation**
 
-Design suggestions:
+  * Organizations run multiple experiments simultaneously to evaluate new ideas.
 
-* Use identical shapes for both treatments to emphasize controlled comparison.
-* Keep labels concise and consistent.
+* **Experimentation culture**
 
----
+  * Teams adopt evidence-driven decision-making through systematic testing.
 
-## Example — Testing a New Recommendation Algorithm in an E-Commerce Platform
+* **Accelerating organizational learning**
 
-An online retail platform wants to determine whether a new recommendation algorithm improves product discovery.
-
-Mapping this scenario to the diagram:
-
-1. **Decision Alternatives**
-
-   * The company compares two algorithms:
-
-     * the existing recommendation model
-     * a new machine learning model designed to improve personalization.
-
-2. **Random Assignment**
-
-   * Website visitors are randomly divided into two groups:
-
-     * Group A sees recommendations generated by the existing algorithm
-     * Group B sees recommendations from the new algorithm.
-
-3. **Different Experiences**
-
-   * Each group interacts with the platform normally, but their recommendations differ.
-
-4. **Observed Outcomes**
-
-   * The system tracks metrics such as:
-
-     * click-through rate on recommended products
-     * purchase conversion rate
-     * average order value.
-
-5. **Outcome Comparison**
-
-   * Analysts compare metrics across groups to determine whether the new algorithm improves user engagement and revenue.
-
-Through this experiment, the organization obtains **direct evidence about the effectiveness of the new recommendation strategy**.
+  * Rapid experimentation shortens the feedback cycle between ideas and outcomes.
 
 ---
 
-## Turning Decisions Into Testable Hypotheses
+# 6. Real-World Example — Netflix Experimentation Platform
 
-* Experimentation systems transform decision-making from assumption-driven processes into evidence-driven learning.
-* By comparing alternatives through randomized experiments, organizations can measure the true impact of their decisions.
-* Continuous experimentation allows companies to refine products, strategies, and algorithms through incremental improvements.
-* Over time, experimentation becomes a core capability that strengthens the organization’s ability to learn from real-world interactions.
-
-**Transition to the Next Chapter**
-
-Experimentation allows organizations to validate ideas through evidence gathered from real-world interactions. But running experiments and analyzing their results requires reliable access to large volumes of data. The next chapter explores the data platforms that provide the infrastructure supporting modern data and intelligence systems.
+* Streaming platforms frequently test variations in recommendation algorithms, interface layouts, and content presentation.
+* Users are randomly assigned to different versions of a feature or algorithm.
+* Each version influences how users browse content, select shows, or continue watching.
+* The platform measures engagement metrics such as viewing time, completion rates, and content discovery.
+* Comparing these metrics across experimental groups reveals which design improves user experience.
+* Successful variants are gradually deployed to the broader user base.
 
 ---
 
-## References
+# 7. Strategic Insight
 
-* Kohavi, Ron, Tang, Diane, & Xu, Ya. *Trustworthy Online Controlled Experiments.* Cambridge University Press, 2020.
-
-* Box, George E. P., Hunter, William G., & Hunter, J. Stuart. *Statistics for Experimenters.* Wiley, 2005.
-
-* Provost, Foster, & Fawcett, Tom. *Data Science for Business.* O’Reilly Media, 2013.
-
-* Hernán, Miguel A., & Robins, James M. *Causal Inference: What If.* Chapman & Hall/CRC, 2020.
-
-* Thomke, Stefan. *Experimentation Works: The Surprising Power of Business Experiments.* Harvard Business Review Press, 2020.
+* Experimentation systems transform organizational decision-making from intuition-driven to evidence-driven.
+* By isolating causal impact, experiments allow organizations to confidently evaluate competing strategies.
+* Continuous experimentation accelerates innovation by rapidly validating or rejecting ideas.
+* When integrated with decision systems and learning pipelines, experimentation becomes a powerful engine of organizational intelligence.
+* Supporting these capabilities at scale requires robust infrastructure for managing data, models, and experimentation workflows: **data platforms.**
