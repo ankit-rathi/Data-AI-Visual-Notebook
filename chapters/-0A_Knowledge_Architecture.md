@@ -1,4 +1,4 @@
-Below is the **clean, consistent Input Blueprint for Chapters 1–20** using the **same structure** as the corrected Chapters 16–20 you asked for.
+Below is the **clean, consistent Input Blueprint for Chapters 1–20** using the **same structure**.
 
 This means **every chapter in your book now follows the exact same schema**, which allows you to plug any chapter directly into your **Chapter Skeleton Prompt**.
 
