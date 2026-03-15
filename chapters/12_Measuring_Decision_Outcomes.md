@@ -2,189 +2,95 @@
 
 ---
 
-## Why Decisions Must Be Evaluated Through Outcomes
+# 1. Opening Observation
 
-* Once decisions are executed within operational systems, they begin influencing real-world processes.
-* However, executing decisions does not guarantee that the intended objectives are achieved.
-* Organizations therefore need mechanisms to determine **whether decisions actually produce the desired results**.
-* Without outcome evaluation:
-
-  * ineffective decisions may persist unnoticed
-  * successful strategies cannot be identified and replicated
-  * learning from operational systems becomes impossible
-* Measuring outcomes transforms decisions from isolated actions into **observable experiments whose results can be analyzed**.
-* This evaluation process connects operational decisions to measurable organizational performance.
+* Digital platforms constantly monitor the effects of their operational decisions.
+* Recommendation systems track whether users click on suggested content.
+* Marketing systems measure conversions after targeted campaigns.
+* Product teams observe engagement metrics after deploying new features.
+* These measurements reveal how actions influence real-world behavior.
 
 ---
 
-## Defining Metrics That Represent Success
+# 2. Problem
 
-* Outcome measurement begins with defining **metrics that represent the goals of the decision system**.
-
-* These metrics serve as indicators of whether decisions improved or degraded performance.
-
-* Different decision contexts require different outcome metrics, such as:
-
-  * revenue growth or conversion rate
-  * customer retention or engagement
-  * operational efficiency or cost reduction
-  * risk mitigation or fraud prevention
-
-* Effective metrics share several characteristics:
-
-  * they reflect meaningful business outcomes
-  * they are measurable and consistently tracked
-  * they align with the objectives of the decision system
-
-* By establishing clear metrics, organizations create a **common standard for evaluating decision effectiveness**.
+* Once operational systems execute decisions, organizations must determine whether those decisions produced desirable results.
+* Outcomes often emerge after actions interact with complex environments.
+* Multiple factors may influence observed results, making evaluation difficult.
+* Without structured outcome measurement, organizations cannot determine whether their decision systems are effective.
+* Reliable evaluation therefore requires systematic tracking of decision consequences.
 
 ---
 
-## Connecting Decisions to Observed Results
+# 3. Core Idea
 
-* Once metrics are defined, organizations must connect **decisions and actions to their observable consequences**.
-* This relationship is not always straightforward because outcomes often depend on multiple external factors:
-
-  * market conditions
-  * user behavior
-  * operational constraints
-* Decision systems therefore collect and analyze outcome data to understand how actions influence results.
-* Observed outcomes provide signals that indicate whether decisions performed as expected or produced unintended consequences.
-* These signals form the foundation for **evaluating and improving decision strategies over time**.
+* Decision systems require measurable outcomes to assess effectiveness.
+* Outcomes represent the observable consequences of actions triggered by decisions.
+* By linking actions to measurable results, organizations can evaluate the impact of their decision processes.
+* Outcome measurement creates the evidence needed for continuous improvement.
 
 ---
 
-## Isolating the Impact of Decisions Through Experiments and Causal Analysis
+# 4. System Model
 
-* Measuring outcomes alone does not guarantee accurate conclusions because correlation does not imply causation.
-
-* Organizations must determine whether observed changes were actually caused by their decisions.
-
-* Two common approaches help isolate causal effects:
-
-  * **controlled experiments (A/B testing)**
-
-    * different users or situations receive alternative decision policies
-    * outcomes are compared to determine which approach performs better
-
-  * **causal analysis techniques**
-
-    * statistical methods estimate the effect of decisions while controlling for confounding factors
-
-* These techniques allow organizations to identify **which actions truly drive improvements** rather than relying on assumptions.
-
----
-
-## Diagram — Conceptual Illustration
-
-```
-Decision
-     ↓
-Action Implemented
-     ↓
-Observed Outcomes
-     ↓
-Performance Metrics
-     ↓
-Evaluation and Insight
+```text id="uhgh4g"
+decision → action → outcome → measurement
 ```
 
-### Explanation
-
-The diagram illustrates how organizations evaluate the effectiveness of decisions.
-
-* A **decision** leads to a specific **action implemented within an operational system**.
-* That action produces **observable outcomes** in the real world.
-* These outcomes are measured through defined **performance metrics**.
-* The metrics are analyzed to produce **evaluation and insights** about whether the decision achieved its intended goals.
-
-This structure transforms operational decisions into measurable events that generate feedback for learning.
+* A **decision** selects a course of action under uncertainty.
+* The **action** implements that decision within the operational system.
+* The action produces an **outcome** as it interacts with the environment.
+* **Measurement** captures and quantifies the observed results.
 
 ---
 
-### Guidance for Drawing in PowerPoint
+# 5. Mechanism
 
-Layout:
+* **Defining decision outcomes**
 
-* Use a **vertical flow diagram** representing the progression from decision to evaluation.
+  * Identifying observable results that reflect the impact of decisions.
 
-Shapes:
+* **KPIs and performance metrics**
 
-* Rectangles for each stage:
+  * Quantitative indicators used to track outcomes across organizational objectives.
 
-  * Decision
-  * Action Implemented
-  * Observed Outcomes
-  * Performance Metrics
-  * Evaluation and Insight
+* **Attribution challenges**
 
-Arrows:
+  * Determining which decisions or actions contributed to observed outcomes.
 
-* Downward arrows connecting each step.
+* **Delayed outcomes**
 
-Design suggestions:
+  * Some results appear long after decisions are made.
 
-* Emphasize **Observed Outcomes** and **Performance Metrics** slightly to highlight their role in evaluation.
-* Keep the design simple with minimal text in each box.
+* **Measuring decision quality**
 
----
+  * Evaluating whether decisions followed sound reasoning under uncertainty.
 
-## Example — Measuring the Impact of a Customer Retention Strategy
+* **Outcome vs process metrics**
 
-Consider an online subscription platform attempting to reduce customer churn.
+  * Distinguishing between final results and indicators of decision execution quality.
 
-Mapping this scenario to the diagram:
+* **Closing the feedback loop**
 
-1. **Decision**
-
-   * The company decides to intervene when a predictive model identifies customers at high risk of churn.
-
-2. **Action Implemented**
-
-   * At-risk customers receive targeted retention offers, such as discounts or personalized support.
-
-3. **Observed Outcomes**
-
-   * Some customers remain subscribed while others still cancel their subscriptions.
-
-4. **Performance Metrics**
-
-   * The organization tracks metrics such as:
-
-     * retention rate
-     * revenue per user
-     * long-term customer lifetime value
-
-5. **Evaluation and Insight**
-
-   * Through A/B testing, the company compares outcomes between customers who received the retention offer and those who did not.
-   * This analysis reveals whether the intervention genuinely improved retention.
-
-Through systematic outcome measurement, the organization learns whether its decision strategy is **creating real value**.
+  * Feeding outcome measurements back into analytical and decision systems.
 
 ---
 
-## Turning Outcomes Into Organizational Learning
+# 6. Real-World Example — Recommendation System Click-Through Rate
 
-* Measuring decision outcomes closes the loop between actions and results.
-* By defining success metrics, collecting outcome data, and isolating causal effects, organizations gain insight into how decisions influence performance.
-* This evaluation process transforms operational decisions into **learning opportunities that reveal what works and what does not**.
-* Without reliable outcome measurement, organizations cannot improve their decision systems because they lack objective feedback.
-
-**Transition to the Next Chapter**
-
-Measuring outcomes allows organizations to understand the impact of their decisions. When this information is systematically fed back into analytical systems, it creates a powerful cycle of learning. The next chapter introduces the Decision Flywheel, which explains how continuous feedback accelerates organizational learning.
+* Content recommendation systems display suggested items to users based on predictive models.
+* Each recommendation represents a decision about what content to present.
+* Users respond by clicking, ignoring, or engaging with the recommended content.
+* The platform records these interactions as measurable outcomes.
+* Metrics such as click-through rate quantify how frequently recommendations lead to engagement.
+* These measurements allow teams to evaluate the effectiveness of recommendation strategies.
 
 ---
 
-## References
+# 7. Strategic Insight
 
-* Provost, Foster & Fawcett, Tom. *Data Science for Business.* O’Reilly Media, 2013.
-
-* Kohavi, Ron, Tang, Diane, & Xu, Ya. *Trustworthy Online Controlled Experiments.* Cambridge University Press, 2020.
-
-* Pearl, Judea. *Causality: Models, Reasoning, and Inference.* Cambridge University Press, 2009.
-
-* Hernán, Miguel A., & Robins, James M. *Causal Inference: What If.* Chapman & Hall/CRC, 2020.
-
-* Shmueli, Galit & Koppius, Otto. “Predictive Analytics in Information Systems Research.” *MIS Quarterly*, 2011.
+* Measuring outcomes allows organizations to determine whether decision systems create real value.
+* Reliable evaluation reveals which decisions improve performance and which require adjustment.
+* Outcome data also provides critical feedback for refining models, rules, and operational workflows.
+* When measurement continuously informs improvement, organizations begin to build self-reinforcing learning systems.
+* This dynamic leads to the next concept: **the Decision Flywheel.**
