@@ -32,7 +32,7 @@ Over time, these observations led me to a simple but powerful realization:
 
 This idea became the foundation for the framework explored in this book.
 
-## The Decision Intelligence System
+## The Decision Intelligence Engine
 
 About four or five years ago, while working across multiple projects and reflecting on the broader landscape of data and AI systems, I began thinking about how organizations convert observations of the world into decisions and actions. This thinking eventually crystallized into a simple conceptual model:
 
