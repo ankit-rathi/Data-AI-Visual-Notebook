@@ -120,6 +120,8 @@ Value emerges when organizations use data and intelligence to make **better deci
 
 This book explores how to design the systems that make that possible.
 
+---
+
 # Table of Contents
 
 ## PART I — Foundations: Decisions, Uncertainty, and Information
