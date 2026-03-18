@@ -2,7 +2,7 @@
 
 ---
 
-## Learning as a Competitive Advantage *(Opening Observation)*
+## Learning as a Competitive Advantage 
 
 Some organizations improve faster than others despite operating in similar markets and with comparable resources. Their products evolve more rapidly, their operations become more efficient, and their strategies adapt more effectively to changing conditions. This advantage is not driven solely by better tools or larger data volumes.
 
@@ -12,7 +12,7 @@ Over time, this creates a compounding cycle. Decisions improve because they are 
 
 ---
 
-## The Failure to Convert Data into Learning *(Problem)*
+## The Failure to Convert Data into Learning 
 
 Many organizations collect vast amounts of data but fail to translate it into consistent improvement in decision-making. Analytical tools, dashboards, and models may exist, yet their influence on actual decisions remains limited. Decisions continue to be driven by intuition, hierarchy, or legacy processes.
 
@@ -24,7 +24,7 @@ Building a data-driven organization requires more than deploying tools. It requi
 
 ---
 
-## Institutionalizing Learning Around Decisions *(Core Idea)*
+## Institutionalizing Learning Around Decisions 
 
 A data-driven organization treats every decision as an opportunity to learn. Decisions produce outcomes, and those outcomes generate data about how the system behaves under specific conditions.
 
@@ -34,7 +34,7 @@ Over time, this loop compounds. Decisions become more accurate, processes become
 
 ---
 
-## The Decision Learning Loop *(System Model)*
+## The Decision Learning Loop 
 
 The core structure of a data-driven organization can be represented as:
 
@@ -52,7 +52,7 @@ These insights feed into **better decisions**. Updated models, improved heuristi
 
 ---
 
-## Mechanisms That Enable Continuous Learning *(Mechanism)*
+## Mechanisms That Enable Continuous Learning 
 
 ### Decision Culture vs Intuition Culture
 
@@ -98,7 +98,7 @@ This integration ensures that learning is not confined to specific teams. It bec
 
 ---
 
-## Example: Experimentation as a Learning Engine *(Real-World Example)*
+## Example: Experimentation as a Learning Engine 
 
 Shopify operates in a dynamic environment where product decisions directly affect merchant success and user experience. To navigate this complexity, the organization emphasizes structured experimentation as a core mechanism for learning.
 
@@ -110,7 +110,7 @@ Over time, this approach compounds learning. Each experiment contributes to a de
 
 ---
 
-## From Data Systems to Decision-Driven Enterprises *(Strategic Insight)*
+## From Data Systems to Decision-Driven Enterprises 
 
 A data-driven organization is defined by its ability to learn systematically from decisions. Data, analytics, and machine learning are not ends in themselves but components of a broader learning system.
 
