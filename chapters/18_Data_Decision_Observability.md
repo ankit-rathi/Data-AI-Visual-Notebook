@@ -2,7 +2,7 @@
 
 ---
 
-## The Hidden Failures in Intelligent Systems *(Opening Observation)*
+## The Hidden Failures in Intelligent Systems 
 
 Modern organizations operate increasingly complex data and decision systems. Data pipelines ingest and transform information continuously, analytics platforms generate insights, and machine learning models make predictions that directly influence user experiences and operational outcomes.
 
@@ -14,7 +14,7 @@ As systems scale in complexity and autonomy, the ability to detect and understan
 
 ---
 
-## The Challenge of Invisible System Failures *(Problem)*
+## The Challenge of Invisible System Failures 
 
 Data and decision systems are composed of multiple interconnected components. Pipelines ingest and transform data, storage systems manage large datasets, models generate predictions, and decision engines apply those predictions in real time. Each component introduces potential points of failure.
 
@@ -26,7 +26,7 @@ Without continuous visibility into system behavior, organizations operate blindl
 
 ---
 
-## Making Systems Observable *(Core Idea)*
+## Making Systems Observable 
 
 Observability provides the capability to understand the internal state and behavior of data and decision systems. It enables organizations to monitor how systems operate in real time and detect when something deviates from expected behavior.
 
@@ -36,7 +36,7 @@ When deviations occur, alerting mechanisms notify relevant teams. This allows fo
 
 ---
 
-## The Observability Feedback Loop *(System Model)*
+## The Observability Feedback Loop 
 
 The structure of observability in data and decision systems can be represented as:
 
@@ -54,7 +54,7 @@ Finally, **remediation processes** are initiated. Teams investigate the root cau
 
 ---
 
-## Mechanisms of Observability in Data Systems *(Mechanism)*
+## Mechanisms of Observability in Data Systems 
 
 ### System Observability Principles
 
@@ -100,7 +100,7 @@ These frameworks provide a unified view of system health. They enable teams to u
 
 ---
 
-## Example: Monitoring Machine Learning at Scale *(Real-World Example)*
+## Example: Monitoring Machine Learning at Scale 
 
 Airbnb operates a large number of machine learning models that influence search ranking, pricing recommendations, and booking predictions. These models directly affect user experience and business performance, making reliability essential.
 
@@ -112,7 +112,7 @@ Engineers respond to these alerts by diagnosing the root cause. They determine w
 
 ---
 
-## Observability as a Core Capability of Decision Systems *(Strategic Insight)*
+## Observability as a Core Capability of Decision Systems 
 
 Observability is essential for operating modern data and decision systems at scale. As systems become more automated and interconnected, the risk of silent failures increases. Without visibility, organizations cannot ensure reliability or maintain trust in their outputs.
 
