@@ -2,7 +2,7 @@
 
 ---
 
-## Digital Systems as Representations of Business Activity *(Opening Observation)*
+## Digital Systems as Representations of Business Activity
 
 Modern organizations operate through digital systems that record and manage nearly every aspect of business activity. Customer interactions, product inventories, financial transactions, and operational workflows are stored as structured records in databases. These records enable companies to track performance, automate operations, and coordinate work across teams and locations.
 
@@ -14,7 +14,7 @@ In this sense, organizational data systems are not simply storage mechanisms. Th
 
 ---
 
-## The Challenge of Representing Complex Systems *(Problem)*
+## The Challenge of Representing Complex Systems 
 
 Real-world business environments are complex and continuously evolving. A single commercial transaction may involve customers, products, payments, logistics providers, inventory systems, and financial accounting processes. Each participant interacts with others while conditions change over time.
 
@@ -26,7 +26,7 @@ When modeling decisions are unclear or poorly coordinated, data systems become f
 
 ---
 
-## Data Systems as Simplified Models *(Core Idea)*
+## Data Systems as Simplified Models 
 
 All organizational data systems are simplified models of real-world processes. Instead of attempting to capture every detail of reality, they represent selected elements that are most relevant for operations and analysis.
 
@@ -38,7 +38,7 @@ The effectiveness of data-driven organizations therefore depends heavily on how 
 
 ---
 
-## From Entities and Events to Structured Models *(System Model)*
+## From Entities and Events to Structured Models 
 
 The construction of organizational data models can be summarized through a simple conceptual structure:
 
@@ -56,7 +56,7 @@ By structuring entities and events into coherent models, organizations create di
 
 ---
 
-## How Organizations Translate Reality into Data Models *(Mechanism)*
+## How Organizations Translate Reality into Data Models 
 
 ### Abstraction in Information Systems
 
@@ -102,7 +102,7 @@ These gaps create potential differences between recorded data and actual events.
 
 ---
 
-## Example: Modeling Orders in an E-commerce Platform *(Real-World Example)*
+## Example: Modeling Orders in an E-commerce Platform 
 
 Consider how an online retailer represents the process of purchasing and delivering products. Although the underlying activity involves many participants and operational steps, the organization must encode the process in structured data.
 
@@ -116,7 +116,7 @@ All of these entities and events are organized within database schemas that defi
 
 ---
 
-## Why Accurate Models Matter for Data-Driven Organizations *(Strategic Insight)*
+## Why Accurate Models Matter for Data-Driven Organizations 
 
 Data-driven organizations depend on reliable representations of how their operations function. When data models accurately reflect key processes, they create consistent structures through which activity can be recorded and interpreted.
 
