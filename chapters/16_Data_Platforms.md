@@ -2,7 +2,7 @@
 
 ---
 
-## The Invisible Infrastructure Behind Data-Driven Systems *(Opening Observation)*
+## The Invisible Infrastructure Behind Data-Driven Systems 
 
 Modern digital organizations operate on continuous streams of data. Every product interaction, operational workflow, and automated decision generates signals that are captured and stored. These signals accumulate rapidly, forming large and complex datasets that reflect how systems behave over time.
 
@@ -12,7 +12,7 @@ Behind most high-performing data-driven organizations lies a shared platform tha
 
 ---
 
-## Fragmentation and the Breakdown of Data Consistency *(Problem)*
+## Fragmentation and the Breakdown of Data Consistency 
 
 As organizations grow, data systems often evolve in a fragmented manner. Different teams adopt separate tools for data ingestion, storage, and analysis. Pipelines are built independently, and data is replicated across multiple systems without consistent governance.
 
@@ -34,7 +34,7 @@ By abstracting infrastructure complexity, data platforms allow teams to focus on
 
 ---
 
-## The Flow of Data Through the Platform *(System Model)*
+## The Flow of Data Through the Platform 
 
 The structure of a data platform can be represented as a sequential flow:
 
@@ -54,7 +54,7 @@ Finally, **machine learning systems** use the same data to train models and buil
 
 ---
 
-## Mechanisms of Data Platform Architecture *(Mechanism)*
+## Mechanisms of Data Platform Architecture 
 
 ### Evolution of Data Infrastructure
 
@@ -100,7 +100,7 @@ These abstractions enable teams to build analytics and machine learning systems 
 
 ---
 
-## Example: The Modern Data Stack in Practice *(Real-World Example)*
+## Example: The Modern Data Stack in Practice 
 
 The modern data stack illustrates how data platforms operate in practice. Organizations collect data from operational systems, including applications, user interactions, and business processes. This data is ingested into centralized storage using dedicated ingestion tools.
 
@@ -112,7 +112,7 @@ This shared platform eliminates duplication and ensures alignment across teams. 
 
 ---
 
-## Data Platforms as the Foundation of Intelligence Systems *(Strategic Insight)*
+## Data Platforms as the Foundation of Intelligence Systems 
 
 Data platforms are the foundation upon which modern decision intelligence systems are built. They provide the infrastructure required to collect, process, and distribute data across the organization.
 
