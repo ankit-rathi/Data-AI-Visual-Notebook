@@ -22,7 +22,7 @@ However, reporting systems rarely specify the actions that should follow from ob
 
 Analytical insights are often produced in environments separate from operational decision processes. Data teams generate reports and analyses, while managers and executives operate within planning cycles, meetings, and strategic reviews.
 
-This separation produces an **insight-to-decision gap**. Organizations accumulate knowledge about their environment, yet that knowledge is not systematically connected to the moments when decisions are made.
+This separation produces an *insight-to-decision gap*. Organizations accumulate knowledge about their environment, yet that knowledge is not systematically connected to the moments when decisions are made.
 
 Without a structured pathway linking information to action, the value of analytics remains only partially realized.
 
@@ -32,7 +32,7 @@ Without a structured pathway linking information to action, the value of analyti
 
 To convert information into effective action, organizations require a system that connects observation, analysis, and decision-making. Information must flow through a sequence of stages that transform raw signals into coordinated organizational responses.
 
-The **Decision Intelligence Loop** describes this process. It frames decision-making as a continuous cycle in which observations about reality are captured as data, interpreted through analysis, translated into decisions, and executed through actions.
+The *Decision Intelligence Loop* describes this process. It frames decision-making as a continuous cycle in which observations about reality are captured as data, interpreted through analysis, translated into decisions, and executed through actions.
 
 The outcomes of these actions generate feedback that improves future understanding. Over time, the loop enables organizations to learn from experience and refine how they allocate resources.
 
@@ -48,19 +48,19 @@ The Decision Intelligence Loop can be represented as a sequence of stages that c
 Reality → Data → Intelligence → Decision → Action → Outcome → Learning
 ```
 
-The process begins with **reality**, the environment in which the organization operates. Customers interact with products, markets evolve, competitors introduce innovations, and operational systems generate performance signals. These events produce the raw phenomena that organizations must interpret.
+The process begins with *reality*, the environment in which the organization operates. Customers interact with products, markets evolve, competitors introduce innovations, and operational systems generate performance signals. These events produce the raw phenomena that organizations must interpret.
 
-Through observation and measurement, these signals are captured and structured as **data**. Logs, transactions, sensor readings, and user events create records describing aspects of the environment.
+Through observation and measurement, these signals are captured and structured as *data*. Logs, transactions, sensor readings, and user events create records describing aspects of the environment.
 
-Analytical processes transform data into **intelligence**. Statistical analysis, machine learning models, and exploratory investigation identify patterns, relationships, and anomalies within the observed signals.
+Analytical processes transform data into *intelligence*. Statistical analysis, machine learning models, and exploratory investigation identify patterns, relationships, and anomalies within the observed signals.
 
-This intelligence informs a **decision**, where leaders or automated systems choose a course of action. Decisions represent commitments about how resources should be allocated or how operations should change.
+This intelligence informs a *decision*, where leaders or automated systems choose a course of action. Decisions represent commitments about how resources should be allocated or how operations should change.
 
-Decisions trigger **actions** that deploy organizational resources. Marketing campaigns launch, product features are released, operational adjustments are implemented, or strategic investments are executed.
+Decisions trigger *actions* that deploy organizational resources. Marketing campaigns launch, product features are released, operational adjustments are implemented, or strategic investments are executed.
 
-These actions interact with the environment to produce **outcomes**. Customer behavior shifts, revenues change, operational efficiency improves or declines, and competitive dynamics evolve.
+These actions interact with the environment to produce *outcomes*. Customer behavior shifts, revenues change, operational efficiency improves or declines, and competitive dynamics evolve.
 
-Finally, outcomes generate **learning**. Organizations compare expectations with results, updating their understanding of how actions influence the environment. This learning feeds back into future observations and decisions, completing the loop.
+Finally, outcomes generate *learning*. Organizations compare expectations with results, updating their understanding of how actions influence the environment. This learning feeds back into future observations and decisions, completing the loop.
 
 ---
 
@@ -134,4 +134,4 @@ Weakness at any stage reduces the effectiveness of the entire system. Poor measu
 
 Organizations that intentionally design around this loop create faster and more reliable decision processes. Information flows more directly into action, and outcomes continuously refine future reasoning.
 
-Understanding this loop also reveals a deeper requirement. For analysis to generate useful intelligence, organizations must first develop reliable ways to represent and understand the environments they operate within. This leads to the next step in the system: **modeling reality**.
+Understanding this loop also reveals a deeper requirement. For analysis to generate useful intelligence, organizations must first develop reliable ways to represent and understand the environments they operate within. This leads to the next step in the system: *modeling reality*.
