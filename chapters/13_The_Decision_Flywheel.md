@@ -42,13 +42,13 @@ The decision flywheel can be represented as a recurring loop:
 decision → action → outcome → data → better decisions
 ```
 
-The cycle begins with a **decision**, which selects an action based on current intelligence. This decision reflects the best available understanding at that point in time.
+The cycle begins with a *decision*, which selects an action based on current intelligence. This decision reflects the best available understanding at that point in time.
 
-The decision leads to an **action**, which interacts with the environment. This interaction produces an **outcome**, revealing how the system’s choice performs in practice.
+The decision leads to an *action*, which interacts with the environment. This interaction produces an *outcome*, revealing how the system’s choice performs in practice.
 
-The outcome generates new **data**. This data captures information about user behavior, system performance, and environmental conditions. It reflects the real-world consequences of the decision.
+The outcome generates new *data*. This data captures information about user behavior, system performance, and environmental conditions. It reflects the real-world consequences of the decision.
 
-This data is then incorporated into analytical and predictive systems, enabling **better decisions** in subsequent cycles. The loop repeats continuously, allowing the system to improve over time.
+This data is then incorporated into analytical and predictive systems, enabling *better decisions* in subsequent cycles. The loop repeats continuously, allowing the system to improve over time.
 
 ---
 
@@ -118,4 +118,4 @@ This continuous learning creates compounding advantages. As decision quality imp
 
 Building such systems requires coordination across data, modeling, decision logic, and operational execution. Each component must contribute to the feedback loop that drives improvement.
 
-Organizations that successfully implement decision flywheels move beyond isolated decision-making. They develop adaptive systems that evolve with use, aligning intelligence with real-world behavior. The next step is ensuring that these learning processes integrate effectively with the structures that execute them: **learning and execution systems**.
+Organizations that successfully implement decision flywheels move beyond isolated decision-making. They develop adaptive systems that evolve with use, aligning intelligence with real-world behavior. The next step is ensuring that these learning processes integrate effectively with the structures that execute them: *learning and execution systems*.
