@@ -44,13 +44,13 @@ The structure of observability in data and decision systems can be represented a
 data systems → monitoring → alerts → remediation
 ```
 
-The process begins with **data systems**, which include pipelines, analytics platforms, and machine learning models operating in production. These systems generate outputs that drive decisions and business outcomes.
+The process begins with *data systems*, which include pipelines, analytics platforms, and machine learning models operating in production. These systems generate outputs that drive decisions and business outcomes.
 
-**Monitoring systems** continuously track metrics related to these components. This includes data freshness, pipeline execution status, model performance, and system-level indicators. Monitoring provides visibility into how systems behave over time.
+*Monitoring systems* continuously track metrics related to these components. This includes data freshness, pipeline execution status, model performance, and system-level indicators. Monitoring provides visibility into how systems behave over time.
 
-When monitored metrics exceed predefined thresholds or exhibit unusual patterns, **alerts** are triggered. These alerts notify teams that an anomaly or failure may have occurred.
+When monitored metrics exceed predefined thresholds or exhibit unusual patterns, *alerts* are triggered. These alerts notify teams that an anomaly or failure may have occurred.
 
-Finally, **remediation processes** are initiated. Teams investigate the root cause, identify the source of the issue, and implement fixes. This closes the loop, restoring system reliability and enabling continuous operation.
+Finally, *remediation processes* are initiated. Teams investigate the root cause, identify the source of the issue, and implement fixes. This closes the loop, restoring system reliability and enabling continuous operation.
 
 ---
 
