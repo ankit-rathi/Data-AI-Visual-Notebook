@@ -42,13 +42,13 @@ The structure of an operational decision system can be represented as a sequenti
 event → model → decision engine → action
 ```
 
-The process begins with an **event**, which represents a meaningful occurrence within the system. This could be a user request, a transaction, or a change in system state. Events act as triggers that initiate decision-making processes.
+The process begins with an *event*, which represents a meaningful occurrence within the system. This could be a user request, a transaction, or a change in system state. Events act as triggers that initiate decision-making processes.
 
-The **model** evaluates the event using available data and generates predictions. These predictions may include probabilities, scores, or estimates relevant to the decision context.
+The *model* evaluates the event using available data and generates predictions. These predictions may include probabilities, scores, or estimates relevant to the decision context.
 
-The **decision engine** applies predefined rules to the model outputs. It determines how the system should respond based on thresholds, constraints, and business logic.
+The *decision engine* applies predefined rules to the model outputs. It determines how the system should respond based on thresholds, constraints, and business logic.
 
-Finally, the system executes an **action**. This action directly affects the operational environment, such as approving a transaction, assigning a resource, or displaying a recommendation. The entire flow occurs in real time, enabling immediate response to events.
+Finally, the system executes an *action*. This action directly affects the operational environment, such as approving a transaction, assigning a resource, or displaying a recommendation. The entire flow occurs in real time, enabling immediate response to events.
 
 ---
 
@@ -118,4 +118,4 @@ However, once decisions are executed at scale, their impact must be evaluated. H
 
 Operational decision systems therefore shift the focus from prediction accuracy alone to end-to-end effectiveness. The quality of decisions depends on how well predictions, rules, and execution align with desired outcomes.
 
-This creates the need for continuous measurement and feedback. Understanding the impact of decisions becomes the next critical capability in the decision intelligence lifecycle: **measuring decision outcomes**.
+This creates the need for continuous measurement and feedback. Understanding the impact of decisions becomes the next critical capability in the decision intelligence lifecycle: *measuring decision outcomes*.
