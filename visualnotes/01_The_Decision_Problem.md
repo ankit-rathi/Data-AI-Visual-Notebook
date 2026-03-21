@@ -1,28 +1,28 @@
 ### The Decision Problem
 
-**Performance = decisions compounded under uncertainty**
+**Performance compounds through decision quality**
 
 ---
 
-### Decision Context
+### Core Context
 
 [Icon Suggestion: compass]
 
 * Resource allocation — distribute capital, time, talent
 * Uncertain future — outcomes not yet visible
 * Strategic choices — products, markets, investments
-* Long horizons — delayed feedback loops
+* Long horizons — delayed outcome realization
 
 ---
 
-### Core System Loop
+### System Flow
 
 [Icon Suggestion: arrows]
 
-* Environment signals — external world inputs
-* Decision logic — interpret uncertain signals
+* Environment input — external signals, conditions
+* Decision logic — interpret signals under uncertainty
 * Action execution — deploy resources operationally
-* Outcome feedback — results interact environment
+* Outcome results — environment responds to actions
 
 ---
 
@@ -31,9 +31,9 @@
 [Icon Suggestion: coins]
 
 * Scarcity trade-offs — choose one, forgo others
-* Capital allocation — funding defines strategy
+* Capital allocation — defines strategic direction
+* Irreversible bets — costly to reverse decisions
 * Compounding impact — small decisions accumulate
-* Irreversibility — costly to undo commitments
 
 ---
 
@@ -55,26 +55,15 @@
 * Reasoning quality — logic, evidence, assumptions
 * Outcome quality — results after execution
 * Luck distortion — success ≠ good decision
-* Learning gap — outcomes mislead evaluation
+* Learning barrier — outcomes mislead evaluation
 
 ---
 
-### Human Constraints
+### Failure Modes
 
-[Icon Suggestion: brain]
+[Icon Suggestion: warning]
 
-* Cognitive bias — distorted judgment patterns
-* Limited bandwidth — cannot process all signals
-* Heuristic shortcuts — simplify complex environments
-* Intuition limits — unreliable at scale
-
----
-
-### System Implication
-
-[Icon Suggestion: system]
-
-* Decision engines — organizations process signals
-* Information flow — data → insight → choice
-* Process quality — determines allocation accuracy
-* Performance driver — decisions shape long-term outcomes
+* Intuition reliance — bias-driven decision making
+* Fragmented inputs — inconsistent information sources
+* Weak evaluation — no decision quality tracking
+* Misallocation drift — compounding poor choices
