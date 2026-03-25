@@ -13,291 +13,106 @@ This book explores how modern organizations design systems that convert observat
 
 ---
 
-# Table of Contents
+# **Table of Contents**
 
-## Preface
+## **Preface**
 
-## PART I — Foundations: Decisions, Uncertainty, and Information
+---
 
-Modern organizations exist to make decisions under uncertainty.
-This section establishes the economic and informational foundations of decision systems.
+## **PART I — Foundations: Decisions, Uncertainty, and Information**
 
-### 1. The Decision Problem
+Modern organizations exist to make decisions under uncertainty and require structured systems to transform information into action.
 
-Organizations operate by making decisions under uncertainty.
+1. **The Decision Problem**
+   Decisions as economic actions under uncertainty.
 
-Topics
+2. **Why Data Exists**
+   Data as a mechanism for reducing uncertainty.
 
-* decisions as economic actions
-* uncertainty in business environments
-* decision quality vs outcome quality
-* the limits of intuition and judgment
-* organizations as decision systems
+3. **The Decision Intelligence Loop**
+   The system that transforms observations into actions and outcomes.
 
-### 2. Why Data Exists
+---
 
-Data exists to reduce uncertainty about the world.
-
-Topics
-
-* information, data, and knowledge
-* measurement and observation
-* signal vs noise
-* the economics of information
-* data as an organizational asset
-
-### 3. The Decision Intelligence Loop
-
-Organizations transform observations into actions through a structured decision system.
-
-Topics
-
-* the decision value chain
-* the limits of reporting and dashboards
-* the gap between insight and action
-* the Decision Intelligence Loop
-* introducing the Decision Flywheel
-
-```
-Reality → Data → Intelligence → Decision → Action → Outcome → Learning
-```
-
-## PART II — From Reality to Data
+## **PART II — From Reality to Data**
 
 How real-world systems become measurable observations.
 
-```
-Reality → Data
-```
+4. **Modeling Reality**
+   Representing complex systems through data models.
 
-### 4. Modeling Reality
+5. **Observing and Capturing Data**
+   Converting real-world events into structured data.
 
-Data models represent simplified views of complex real-world systems.
+6. **Integrating Data Systems**
+   Unifying fragmented data into coherent datasets.
 
-Topics
+---
 
-* entities and events
-* state vs event modeling
-* business processes
-* schema design
-* operational data systems
-
-### 5. Observing and Capturing Data
-
-Data quality begins when reality is observed.
-
-Topics
-
-* instrumentation and event tracking
-* operational data generation
-* logs, sensors, and applications
-* structured vs unstructured observations
-* measurement bias
-
-### 6. Integrating Data Systems
-
-Organizations must unify fragmented observations into coherent datasets.
-
-Topics
-
-* ETL and ELT pipelines
-* batch and streaming systems
-* system integration
-* data contracts
-* schema evolution
-* unified data layers
-
-## PART III — From Data to Intelligence
+## **PART III — From Data to Intelligence**
 
 How organizations transform raw data into understanding and prediction.
 
-```
-Data → Intelligence
-```
+7. **Analytical Intelligence**
+   Explaining what happened and why.
 
-### 7. Analytical Intelligence
+8. **Predictive Intelligence**
+   Anticipating future outcomes using machine learning.
 
-Analytics explains what happened and why.
+9. **The Intelligence Lifecycle**
+   Improving models through feedback and iteration.
 
-Topics
+---
 
-* descriptive analytics
-* diagnostic analysis
-* business metrics and KPIs
-* cohort analysis
-* exploratory analysis
-* causal reasoning
+## **PART IV — From Intelligence to Decisions**
 
-### 8. Predictive Intelligence
+How predictions are translated into actions and outcomes.
 
-Machine learning predicts what is likely to happen next.
+10. **Designing Decisions**
+    Translating predictions into decision logic.
 
-Topics
+11. **Operational Decision Systems**
+    Embedding intelligence into real-time workflows.
 
-* prediction vs explanation
-* supervised learning
-* forecasting and classification
-* model evaluation
-* bias and variance
+12. **Measuring Decision Outcomes**
+    Evaluating the impact of decisions through outcomes.
 
-### 9. The Intelligence Lifecycle
+---
 
-Intelligence systems improve through feedback and iteration.
+## **PART V — Learning Systems and the Decision Flywheel**
 
-Topics
+How organizations improve decisions through feedback and learning.
 
-* feature engineering
-* training pipelines
-* model retraining
-* concept drift
-* feedback data
-* the machine learning lifecycle
+13. **The Decision Flywheel**
+    Decisions as drivers of compounding intelligence.
 
-## PART IV — From Intelligence to Decisions
+14. **Learning and Execution Systems**
+    Separating model learning from real-time decision execution.
 
-Predictions create value only when they influence decisions.
+15. **Experimentation Systems**
+    Using controlled experiments to measure causal impact.
 
-```
-Intelligence → Decision → Action → Outcome
-```
+---
 
-### 10. Designing Decisions
+## **PART VI — Building the Data Organization**
 
-Predictions must be translated into decision logic.
+How organizations operationalize decision intelligence at scale.
 
-Topics
+16. **Data Platforms**
+    Infrastructure for storing and processing data at scale.
 
-* decision theory fundamentals
-* expected value
-* decision thresholds
-* risk trade-offs
-* human vs algorithmic decisions
+17. **Data Trust**
+    Ensuring reliability and consistency of data.
 
-### 11. Operational Decision Systems
+18. **Observability for Data and Decisions**
+    Monitoring the health of data and decision systems.
 
-Decision logic must be embedded in products and workflows.
+19. **Data Strategy**
+    Prioritizing high-impact decisions for intelligence investment.
 
-Topics
+20. **Governance of Decision Systems**
+    Controlling and aligning decision systems end-to-end.
 
-* real-time inference
-* decision engines
-* intelligence APIs
-* operational AI systems
-* automated decision systems
-
-### 12. Measuring Decision Outcomes
-
-Every decision must produce measurable outcomes.
-
-Topics
-
-* outcome metrics and KPIs
-* causal attribution
-* feedback signals
-* outcome measurement systems
-* closed-loop decision systems
-
-## PART V — Learning Systems and the Decision Flywheel
-
-How organizations improve decisions over time.
-
-```
-Outcome → Learning → Better Decisions
-```
-
-### 13. The Decision Flywheel
-
-Decisions generate data that improves future decisions.
-
-Topics
-
-* feedback loops
-* compounding intelligence
-* data network effects
-* learning cycles
-
-### 14. Learning and Execution Systems
-
-Modern AI architectures separate execution systems from learning systems.
-
-Topics
-
-* decision loops
-* learning loops
-* online vs offline systems
-* ML system architecture
-* model deployment pipelines
-
-### 15. Experimentation Systems
-
-Controlled experiments accelerate organizational learning.
-
-Topics
-
-* A/B testing
-* causal inference
-* experimentation platforms
-* product experimentation
-* continuous optimization
-
-## PART VI — Building the Data Organization
-
-Turning decision intelligence into organizational capability.
-
-### 16. Data Platforms
-
-Data platforms provide the infrastructure for intelligence systems.
-
-Topics
-
-* data warehouses
-* data lakes
-* lakehouse architectures
-* feature stores
-* modern data infrastructure
-
-### 17. Data Trust
-
-Reliable decisions require trustworthy data.
-
-Topics
-
-* data quality systems
-* governance and stewardship
-* data lineage
-* compliance and privacy
-
-### 18. Observability for Data and Decisions
-
-Organizations must monitor the health of data and decision systems.
-
-Topics
-
-* pipeline monitoring
-* model monitoring
-* anomaly detection
-* decision monitoring
-
-### 19. Data Strategy
-
-Data strategy determines which decisions organizations should improve.
-
-Topics
-
-* strategic decision mapping
-* high-value decision use cases
-* capability maturity
-* platform investment strategy
-
-### 20. The Data-Driven Organization
-
-The ultimate goal is an organization that continuously improves its decisions.
-
-Topics
-
-* decision culture
-* cross-functional collaboration
-* leadership principles
-* AI-enabled organizations
-* the future of intelligent enterprises
+21. **The Data-Driven Organization**
+    Institutionalizing continuous learning through decisions.
 
