@@ -5,9 +5,15 @@
 
 ![](https://cdn-images-1.medium.com/max/1800/1*MXXJyPujKYm1GPN-gSA0gQ.png)
 
-# About the Book
+## **About the Book**
 
-This book explores how modern organizations design systems that convert observations of reality into better decisions. While data platforms, analytics, and machine learning have advanced rapidly, many organizations still struggle to translate these capabilities into measurable business impact. The central idea of this book is that the true purpose of data systems is to support decision-making. Using the framework Reality → Data → Intelligence → Decision → Action → Outcome → Learning, the book explains how data infrastructure, analytical models, and operational workflows can be integrated into decision intelligence systems that continuously improve decisions over time. Written for data professionals, product owners, and business leaders, the book provides a systems-oriented perspective on how data and AI can be aligned with real organizational outcomes.
+This book explores how modern organizations design, operate, and govern systems that convert observations of reality into better decisions. While data platforms, analytics, and machine learning have advanced rapidly, many organizations still struggle to translate these capabilities into consistent, measurable business impact.
+
+The central idea of this book is that the true purpose of data systems is not analysis, but decision-making. Using the framework **Reality → Data → Intelligence → Decision → Action → Outcome → Learning**, the book shows how data infrastructure, analytical models, and operational workflows can be integrated into decision intelligence systems that continuously improve over time.
+
+Beyond building these systems, the book emphasizes the importance of **feedback loops, experimentation, and governance**. It explains how organizations can ensure that decision systems remain reliable, aligned with objectives, and capable of learning without amplifying errors or unintended consequences.
+
+Written for data professionals, product managers, and business leaders, this book provides a systems-oriented approach to aligning data and AI with real organizational outcomes—transforming isolated capabilities into scalable, decision-driven performance.
 
 **[Link to all the chapters](https://github.com/ankit-rathi/Decision-Intelligence-Engine/tree/main/chapters)**
 
