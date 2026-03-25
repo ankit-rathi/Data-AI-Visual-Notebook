@@ -10,3 +10,4 @@
 - Bibliography/References
 - md to word
 - pdf and merge
+- Submit to publisher
