@@ -118,5 +118,6 @@ This decision-centered approach ensures that data initiatives are directly linke
 
 Over time, this alignment transforms data systems into engines of organizational performance. Decisions become faster, more accurate, and more scalable. Intelligence becomes embedded in everyday operations rather than confined to isolated tools.
 
-As organizations mature, the next challenge is not just identifying where decision systems create value, but ensuring these systems operate reliably and remain aligned with organizational objectives at scale. Building intelligence alone is insufficient without control over how it behaves in practice. This requires governance across the entire decision value chain—spanning data, models, decisions, actions, and learning. The next step, therefore, is establishing *governance of decision systems*.
+As organizations mature, the next challenge is not just identifying where decision systems create value, but ensuring they operate reliably and remain aligned with organizational objectives at scale. This requires governance across the entire decision value chain—leading to the need for *governance of decision systems*.
+
 
