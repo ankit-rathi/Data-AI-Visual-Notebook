@@ -44,7 +44,7 @@ Improving organizational performance ultimately requires improving the systems t
 At the most fundamental level, organizational activity can be described as a simple causal sequence:
 
 ```text
-environment → decision → action → outcome
+( Environment ) → < Decision > → [ Action ] → ( Outcome )
 ```
 
 The *environment* represents the external world in which the organization operates. Markets generate demand signals, competitors introduce new products, regulations evolve, and technologies create new opportunities. These signals are often incomplete, ambiguous, and constantly changing.
