@@ -41,7 +41,7 @@ Predictive intelligence therefore extends data systems from explanation into ant
 The transformation from historical data to future predictions can be represented as a structured pipeline:
 
 ```text id="f9uv91"
-data → features → model → prediction
+[ Data ] → { Feature Engineering } → { Model } → [ Prediction ]
 ```
 
 The pipeline begins with *data*, which consists of historical observations that include both input variables and known outcomes. This data provides the foundation for learning patterns.
