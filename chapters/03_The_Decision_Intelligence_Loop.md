@@ -45,7 +45,7 @@ Rather than treating analytics as a standalone activity, the loop integrates dat
 The Decision Intelligence Loop can be represented as a sequence of stages that connect the external world to organizational action:
 
 ```text id="wy4yxq"
-Reality → Data → Intelligence → Decision → Action → Outcome → Learning
+( Reality ) → [ Data ] → { Intelligence } → < Decision > → [ Action ] → ( Outcome ) ↺ ( Learning )
 ```
 
 The process begins with *reality*, the environment in which the organization operates. Customers interact with products, markets evolve, competitors introduce innovations, and operational systems generate performance signals. These events produce the raw phenomena that organizations must interpret.
