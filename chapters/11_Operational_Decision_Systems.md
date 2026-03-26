@@ -39,7 +39,7 @@ By embedding intelligence into operational workflows, organizations ensure that 
 The structure of an operational decision system can be represented as a sequential flow:
 
 ```text id="gqpptd"
-event → model → decision engine → action
+( Event ) → { Model } → < Decision Engine > → [ Action ]
 ```
 
 The process begins with an *event*, which represents a meaningful occurrence within the system. This could be a user request, a transaction, or a change in system state. Events act as triggers that initiate decision-making processes.
