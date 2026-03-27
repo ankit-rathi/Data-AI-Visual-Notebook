@@ -120,4 +120,4 @@ Continuous experimentation also accelerates innovation. Ideas are validated or r
 
 When integrated with learning and execution systems, experimentation forms a critical layer of decision intelligence. It connects model predictions and operational actions with causal validation.
 
-At scale, supporting this capability requires robust infrastructure to manage data, models, and experimental workflows. This leads to the next foundational layer: data platforms, which enable experimentation and intelligence systems to operate cohesively.
+At scale, supporting this capability requires robust infrastructure to manage data, models, and experimental workflows. This leads to the next foundational layer: *data platforms*, which enable experimentation and intelligence systems to operate cohesively.
